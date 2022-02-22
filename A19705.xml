@@ -1,0 +1,1034 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cupids messenger: or, A trusty friend stored with sundry sorts of serious, wittie, pleasant, amorous, and delightfull letters. Newly written</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19705</idno>
+            <idno type="STC">STC 6122</idno>
+            <idno type="STC">ESTC S105143</idno>
+            <idno type="EEBO-CITATION">99840873</idno>
+            <idno type="PROQUEST">99840873</idno>
+            <idno type="VID">5415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1347:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cupids messenger: or, A trusty friend stored with sundry sorts of serious, wittie, pleasant, amorous, and delightfull letters. Newly written</title>
+               </titleStmt>
+               <extent>[4], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>By M[iles] F[lesher] and are to be sold by Francis Groue ouer against the Sarazens head without Newgate,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"App[arently]. an earlier ed., with author's inits. "W.J." and imprint: J. Chorlton, 1608, was in the Hessisches Landes- und Hochschulbibliothek, Darmstadt, but was destroyed during World War II; see Notes and Queries, April, 1978, p. 129"--STC.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Imaginary letters.</term>
+               <term>Love-letters.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5415:1"/>
+            <p>CVPIDS MESSENGER: OR, A truſty Friend ſtored with ſundry ſorts of ſerious, wittie, pleaſant, amorous, and delightfull Letters.</p>
+            <p>
+               <hi>What</hi> Cupid <hi>bluſhes to diſcouer, Thus to write he learnes the Lover.</hi>
+            </p>
+            <p>Newly written.</p>
+            <figure>
+               <figDesc>Cupid with bow and arrow aiming at richly dressed man and woman standing close together (with her left hand in his) in a landscape</figDesc>
+               <l>How Not loue,</l>
+               <l>Thou Shalt loue</l>
+            </figure>
+            <p>Printed at <hi>London</hi> by <hi>M. F.</hi> and are to be ſold by <hi>Francis Groue</hi> ouer againſt the <hi>Sarazens head</hi> without Newgate 1629.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:5415:2"/>
+            <pb facs="tcp:5415:2"/>
+            <head>The Contents.</head>
+            <list>
+               <item>A Letter inuiting his Friend to write to him. <hi>Fol.</hi> 1</item>
+               <item>
+                  <hi>The anſwer. A Letter excuſatory for not writing Fol.</hi> 2</item>
+               <item>A Letter to a friend vpon the death of his wife. <hi>Fol.</hi> 3</item>
+               <item>A comfortable Letter vpon the loſſe of an husband. <hi>Fol.</hi> 4</item>
+               <item>A Letter of griefe for friends abſence. <hi>Fol.</hi> 5</item>
+               <item>A Letter for the entreaty of good will to a young Gentle<g ref="char:EOLhyphen"/>woman. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>Her Anſwer. Fol.</hi> 7</item>
+               <item>Another Letter to his Miſtris, deſiring her loue. <hi>Her anſwer. Fol.</hi> 8</item>
+               <item>To a beauteous Lady vpon a long affection. <hi>Fol.</hi> 9</item>
+               <item>
+                  <hi>Her Anſwer. Fol.</hi> 10</item>
+               <item>To a iudicious Gentlewoman. <hi>Her anſwer Fol.</hi> 11</item>
+               <item>To a Lady, with whom he fell in loue ſeeing her at a ſolemn Triumph. <hi>Fol.</hi> 12</item>
+               <item>
+                  <hi>Her Anſwer. Fol.</hi> 13</item>
+               <item>To his Miſtris that was of wanton and light cariage. <hi>Fol.</hi> 14</item>
+               <item>
+                  <hi>Her Anſwer. Fol.</hi> 15</item>
+               <item>A deſperate Louer to his <hi>quondam</hi> Miſtris. <hi>Fol.</hi> 16</item>
+               <item>Her Anſwer. <hi>Fol.</hi> 17</item>
+               <item>A Letter of true kindneſſe. Her anſwer. <hi>Fol.</hi> 18</item>
+               <item>A Letter of counſell from a diſcreet mother to her daughter newly maried. Her anſwer <hi>Fol.</hi> 19</item>
+               <item>A Letter in caſe of wrong ſuppoſed to be commited. <hi>Fol.</hi> 20</item>
+               <item>A Letter from his Seruant to his Maſter. <hi>Fol.</hi> 21</item>
+               <item>An anſwer of a Letter for curteſie and fauour receiued. <hi>Fol.</hi> 22</item>
+               <item>The Fathers Letter againſt the Sonne. <hi>Fol.</hi> 23</item>
+               <item>The Anſwer. <hi>Fol.</hi> 24</item>
+               <item>To his miſtris <hi>(quondam)</hi> hauing ſpent all his meanes vpon her in proſperitie he being impriſond ſhe forſakes him. <hi>Fol.</hi> 25</item>
+               <item>To his friend lying long ſicke. <hi>Fol.</hi> 26</item>
+               <item>A Letter wherein is recommended to a Nobleman from his inferiour the conditions and behauiour of a perſon. <hi>Fol.</hi> 27</item>
+               <item>The Anſwer. <hi>Fol.</hi> 28</item>
+               <item>A merry Letter to his friend in London. <hi>Fol.</hi> 29</item>
+               <item>A Letter gratulatorie. <hi>Fol.</hi> 30</item>
+               <item>A Letter to his ſilent friend. The Anſwer. <hi>Fol.</hi> 31</item>
+               <pb facs="tcp:5415:3"/>
+               <item>A Letter expoſtulatory for breach of promiſe. <hi>Fol.</hi> 32</item>
+               <item>To his friend ſalue to pouerty. <hi>ibid.</hi>
+               </item>
+               <item>A Letter of a Gentlewoman to a Gentleman with whom ſhe fell in loue, and, <hi>His Anſwer. Fol.</hi> 33. 34</item>
+               <item>A Letter from a Chapman in the Country to a Tradeſman in London. with, <hi>The Anſwer. Fol.</hi> 35. 36</item>
+               <item>A Letter of thankfulnes for kindneſſe ſhewed to his ſon. <hi>Fol.</hi> 37</item>
+               <item>
+                  <hi>The Anſwer. Fol.</hi> 38</item>
+               <item>A Letter to his Miſtreſſe in the Country that deſired newes from the Citie. <hi>ibid</hi>
+               </item>
+               <item>
+                  <hi>Her Anſwer. Fol.</hi> 40</item>
+               <item>A wooing and comfortable letter to a noble widow that had newly loſt her husband. <hi>Fol.</hi> 41</item>
+               <item>
+                  <hi>Her Anſwer. Fol.</hi> 42</item>
+               <item>Another to the ſame purpoſe. <hi>Fol.</hi> 43</item>
+               <item>
+                  <hi>Her Anſwer. Fol.</hi> 44</item>
+               <item>A Letter of diſcontent after the falling out of Louers. <hi>Fol.</hi> 45</item>
+               <item>To his angry Miſtris. <hi>Fol.</hi> 46</item>
+               <item>A Letter from an Apprentice in London, to his father in the Country. <hi>ibid.</hi>
+               </item>
+               <item>A Letter from a husband to his wife. <hi>Her Anſwer. Fol.</hi> 47. 58</item>
+               <item>A Letter from one kinſman to another in London or any o<g ref="char:EOLhyphen"/>ther place. <hi>Fol.</hi> 49</item>
+               <item>A Letter to requeſt the borrowing of hundred pounds. <hi>Fol.</hi> 50</item>
+               <item>
+                  <hi>The Anſwer. Fol.</hi> 51</item>
+               <item>A Letter to his friend for breach of promiſe. <hi>Fol.</hi> 52</item>
+               <item>
+                  <hi>The Anſwer. Fol.</hi> 53</item>
+               <item>To his friend a Mercer. <hi>Fol.</hi> 53</item>
+               <item>A Letter to an vnfaithfull friend. <hi>ibid.</hi>
+               </item>
+               <item>A Letter for admittance into ſeruice. <hi>Fol.</hi> 55</item>
+               <item>To his loue vpon a long and fruitleſſe affection. <hi>Fol.</hi> 56</item>
+               <item>To his ſweet heart in the Country. <hi>ibid.</hi>
+               </item>
+               <item>A young mans Letter to his enamoured miſtris. <hi>Fol.</hi> 57</item>
+               <item>
+                  <hi>Her kinds anſwer. Fol.</hi> 58</item>
+               <item>A Letter of Requeſt. <hi>ibid.</hi>
+               </item>
+               <item>A Letter of diſcontent, vpon a deniall of a Requeſt. <hi>Fol.</hi> 59</item>
+               <item>To a Court Lady. <hi>Her Anſwer. Fol.</hi> 59. 60</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:5415:3"/>
+            <head>CVPIDS MESSENGER DELIVERING SVNDRY Excellent Letters.</head>
+            <div type="letter">
+               <head>A Letter inuiting his Friend to write to him.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hough the want of your ſwéet ſocietie my worthy Friend) doe occaſion reaſon of griefe, yet it lies in you euen by the of<g ref="char:EOLhyphen"/>ten miſſion of your deſired Letters, to mitigate that ſorrow: and ſince the di<g ref="char:EOLhyphen"/>ſtance of place doth denie vs our accuſto<g ref="char:EOLhyphen"/>med conference and orall communica<g ref="char:EOLhyphen"/>tion, let the paſſage and entercourſe of our Letters ſupplie that defect. Now our tongues cannot be heard, let vs be frequent in our writing: and let not the change of places al<g ref="char:EOLhyphen"/>ter our mindes. Therefore that you might not iudge mée negligent of our fore paſſed amitie, or forgetfull of our olde friendſhip, I haue tooke boldneſſe to viſit you with this let<g ref="char:EOLhyphen"/>ter, deſiring you to be no niggard in this kinde of friendly remembrance. I wiſh to you all proſperous fortunes as to my ſelfe, and continue my loue to you with all ſinceritie. But leſt the proliritie of my Letter grow to the length of an Oration, I ſet bounds to my writing, and remains</p>
+               <closer>
+                  <signed>Yours in boundleſſe affection, C. D.</signed>
+                  <dateline>
+                     <hi>London.</hi> 
+                     <date>
+                        <hi>Febr.</hi> 4. 1629.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="2" facs="tcp:5415:4"/>
+               <head>The Anſwer. A Letter excuſatory for not writing.</head>
+               <p>I Am afraid (iudicious and kind ſir) that it is with me as it is with that vnfortunate Pylot who falls into the Gulfe of <hi>Scylla,</hi> while he indeauors to avoid the danger of <hi>Charybdis.</hi>
+               </p>
+               <q xml:lang="lat">Incidit in Scyllam cupidus vitare Charybdim.</q>
+               <p>I confeſſe I haue receiued Letters from you, and ſeeking by not anſwering all this while to conceale the rudeneſſe of my vnpoliſhed penne from the deepe diſcerning eye of your iudgement, I doubt whether I haue not made ſhipwracke of your good opinion, who happely imputes my ſilence vnto my negligence of your loue, or to my obliuion of your paſ<g ref="char:EOLhyphen"/>ſed kindeneſſes: But I beſeech you (kindeſt Sir) to haue thus much confidence in diſpoſition, that no confuſed Chaos of cogitations, no fullneſſe of imployment, ſhall baniſh your remembrance out of my thoughts: though I bee neuer ſo buſie I make anſwer to thoſe I little regard, I dare ſcarce write to you (I am poſſeſſed with ſuch a due reuerence of your worthineſſe) when I am moſt at leiſure. Yet finding in my ſelfe how farre greater a crime it is to neglect duty then to lay open my imperfection to a well wiſhing friend, I haue choſen the latter to make tender of the former: wiſh<g ref="char:EOLhyphen"/>ing that as you equalize graue <hi>Neſtor</hi> in wiſedome, ſo you might parallell him in the longaeuity of a happy life, I hum<g ref="char:EOLhyphen"/>bly ſurccaſe:</p>
+               <closer>
+                  <signed>At your command. E R.</signed>
+                  <dateline>Newcaſtle, <date>Iune 2. 1629.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:5415:4"/>
+               <head>A Letter to a friend vpon the death of his wife.</head>
+               <p>THe acquaintance I had with your vertuous wife (ho<g ref="char:EOLhyphen"/>neſt friend) makes me feele the ſenſe of her loſſe, for hée that can be inſenſible of the loſſe of a good woman, is an a<g ref="char:EOLhyphen"/>lien to nature, and a rebell to all morall vertues. I may truly ſay ſhe was praiſe-worthy for her many good parts, but they were but good prouiſions for the world to come.</p>
+               <p>Giue me leaue to aske you why you mourne, I meane not why you mourne outwardly; which is an old cuſtome and a matter of formality, but why doe you mourne in<g ref="char:EOLhyphen"/>wardly, which is the true ſorrow: you will ſay (I ſay) for the loſſe of a companion. Indeed you doe well, for as a man was ſolitary before God gaue him one, ſo ſhould he be after God takes her away: but there is a meane in all things. To be hard hearted is beaſt like, to bée tender is effeminate, to be ſenſible is manly. As for you, you cannot offer a more acceptable ſacrifice to the dead, then by turning the loue you bare her, into care of her children, to which I know you by nature ſo well inclined, that I néed not to inſtruct, but onely remember you: but ſince wiſe men in ſudden acci<g ref="char:EOLhyphen"/>dents and in caſes concerning themſelues are ſometimes to ſéeke, I am bold to aduiſe you now, though henceforth I would be glad to be aduiſed by you: reſting</p>
+               <closer>
+                  <signed>
+                     <hi>Your ſeruant, <hi>I. M.</hi>
+                     </hi>
+                  </signed>
+                  <dateline>
+                     <hi>Arthingworth.</hi>
+                     <date>
+                        <hi>Iuly 7. 1629.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:5415:5"/>
+               <head>A comfortable Letter vpon the loſſe of a Husband.</head>
+               <opener>
+                  <salute>Madam:</salute>
+               </opener>
+               <p>THough none knowes the value of your loſſe, nor féeles the want ſo déeply as your ſelfe. yet I may take vpon me more féeling than another man, being for the loue I beare you more ſenſible of your miſfortune and affliction: I my ſelfe haue contributed many teares, and I confeſſe there is great allowance of griefe for good wiues for the fatall departures of worthy huſbands, but you were better forget the dead then the liuing, (your daughters I meane) to whom (I am opinionated) you would not wiſh ſo ſad an increaſe as your death would bring them, which by this <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> c<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe of <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cating ſorrow is too much haſtened. O let not your vertue of patience die before you, but ſo mag<g ref="char:EOLhyphen"/>nanimouſly behaue your ſelfe in your troubles, that your acquaintance may finde more cauſe to commend you, then to aduiſe you. Madam I beſéech you hold me to be</p>
+               <closer>
+                  <signed>Your Honors friend W. M.</signed>
+                  <dateline>
+                     <hi>Arthingworth</hi>
+                     <date>
+                        <hi>March 11, 1629.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:5415:5"/>
+               <head>A Letter of griefe for his friends abſence.</head>
+               <p>OF ſuch comfortable vſe is the familiarity of a ſwéet companion, that thoſe houres of our life ſéeme moſt happie which are paſſed away in the ſocietie of a friend: If we take a iourney his companie is in ſtead of a Coach; there's not a thought, nor a word, of the tediouſneſſe of the way: If we abide at home, we imagine that the ſithe of Time too ſpéedily ſwéepes away the houres. But on the contrarie, needs muſt his life bée melancholike that hath no friend to ſweeten the ſlow tranſcurſion of Time. I wiſh my owne experience were not too true proofe hereof, for ſince your abſence, ſwéeteſt friend, melancholly hath béene my concomitant, and your remembrance my greateſt com<g ref="char:EOLhyphen"/>fort. And as the Turtle pines away after the loſſe of his mate, ſo ſince your departure my boſom hath admitted no conſolation. I requeſt you by that intereſt which I haue in your loue, ſince in perſon I cannot, that I may ſée you in a Letter. Silence betweene abſent friends incurres the cenſure of an inofficious and inciuill diſpoſition. But I know you will vindicate your ſelfe from a ſtaine of ſo ab<g ref="char:EOLhyphen"/>horent a nature. I reſt</p>
+               <closer>
+                  <signed>Yours vnremoueably, I. C.</signed>
+                  <dateline>
+                     <hi>Frandon.</hi>
+                     <date>
+                        <hi>Aug. 1628.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter for the entreaty of good will to a young Gentlewoman.</head>
+               <p>THe long and conſiderate regard by which in déepe con<g ref="char:EOLhyphen"/>templation I haue eyed your moſt rare and ſingular vertues, ioyned with ſo admirable beauty, and much plea<g ref="char:EOLhyphen"/>ſing
+<pb n="6" facs="tcp:5415:6"/> condition, graffed in your perſon, hath moued me, good miſtris <hi>E. B.</hi> among a number whom I know intirely to fauour you, earneſtly to loue you and therewith to offer my ſelfe vnto you. Now howbeit I may happely ſéeme in ſome eies, the leaſt in worthineſſe of a number that daily frequent you, yet may you vouchſafe in your owne priuate to reckon me with the greateſt in willingneſſe. Wherein, if a ſettled and immoueable affection towards you if fer<g ref="char:EOLhyphen"/>uent and aſſured loue, grounded vpon the vndecaiable ſtay and prop of your vertues, if continuall, nay rather inexter<g ref="char:EOLhyphen"/>minable vowes, in all perpetuitie addicted vnto your ſer<g ref="char:EOLhyphen"/>uices, if neuer ceaſing and tormenting griefe vncertainlie caried by a hazardous expectation, cloſed in the circle of your gratious conceit, whether to bring vnto the eares of my ſoule a ſwéet murmur of life, or ſeuere ſentence of a preſent death, may ought at all preuaile, either to moue, entreat, ſue, ſollicite, or perſwade you, I then am the man, who ſhrining in my inward thoughts the dignitie of ſo worthie a creature, and priſing in deepeſt waight (though not to the vttermoſt value) the eſtimate of ſo incomparable a beautie, haue reſolued liuing to honor you, and dying neuer to ſerue other but you, from whoſe delicate lookes expecting no worſe acceptance, then may ſeeme anſwerable to ſo diuine an excellencie: I remaine</p>
+               <closer>
+                  <signed>Your moſt paſſionate, loyall, and perpetually deuoted, R. F.</signed>
+                  <dateline>
+                     <date>
+                        <hi>Ianuary 20. 1629.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="7" facs="tcp:5415:6"/>
+               <head>Her Anſwer.</head>
+               <p>THat men haue skill, and are by ſundry commendable parts enabled to ſet forth their meaning, there needeth no other teſtimony then your preſent writing, your elo<g ref="char:EOLhyphen"/>quence is far beyond the reach of my poore wit, and the multiplicity of your praiſes fitter for a poeticall goddeſſe, then to the erection of any ſuch deeſſe. For my part, I ſhall hold them as the fancies and toyes of men, iſſuing from the weakeſt of their humors, and how farre my ſelfe can deſerue, none better then my ſelfe can conceiue. Being one of ſo good ſort, as you are, I could doe no leſſe then write againe vnto you, the rather to ſatisfie the importunity of your meſ<g ref="char:EOLhyphen"/>ſenger, wiſhing ſuch a one to your lot as might paragonnize thoſe excellencies you writ of, and anſwer euery way to the ſubſtance of all thoſe ineſtimable praiſes. So hauing your loue and your writing, (as I take it) be beſt ſuted together.</p>
+               <closer>
+                  <signed>Yours as farre as modeſty will, to anſwer your courteſies. <hi>E. B.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>nuary</hi> 24. 1629.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:5415:7"/>
+               <head>Another Letter to his Miſtris, deſiring her loue.</head>
+               <p>GOod miſtris <hi>I. P.</hi> I am bold, though a ſtranger, to make theſe lines meſſengers at this preſent of my good meaning towards you, wherein I goe not about by pretence of a moſt entire and hearty good will, which I pro<g ref="char:EOLhyphen"/>feſſe to beare you, to make preſent ſurmiſe thereupon that on ſo bare an aſſertion you ſhould immediately credit mee, I priſe your worthineſſe at a far greater value, and weigh your good allowance ſo much, as I onely deſire by your fauourable liking I may intreat to haue acceſſe vnto you, not doubting but by being in your preſence, I ſhall ſo ſuffi<g ref="char:EOLhyphen"/>ciently by apparent proofe mainetaine the efficacie of that I now proteſt, and giue ſo good occaſion, to déeme well of me, as you ſhall haue no reaſon to repent you, that vpon ſo honeſt and louing a requeſt you haue condiſcended to my entreaty: whoſe health and proſperity tendring as mine owne. I ſend you with my Letter a token of that great af<g ref="char:EOLhyphen"/>fection I beare you, which I pray you moſt hartily to ac<g ref="char:EOLhyphen"/>cept of, and weare for me. And euer ſo doe continue,</p>
+               <closer>
+                  <signed>Yours if ſo you pleaſe to accept of me. R. M.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her anſwer.</head>
+               <p>SIr, your meſſage is to me as ſtrange as your ſelfe, who are vnto me as ſtranger, and what your good meaning vnto me is, I know not: for giuing of credit vnto your aſſertion, as you ſeeme not to challenge it, ſo was I neuer hitherto of my ſelfe ſo haſty to doe it, hauing oftentimes beene taught, that of faireſt ſpeeches enſueth the fouleſt actions: I cannot
+<pb n="9" facs="tcp:5415:7"/> condemne your purpoſe, becauſe I intend the beſt of your dealings, and howbeit I am in no point ſo reſtrained, but that in all reaſonable ſort that may bee, any acceſſe may be granted, ſo when you ſhall by farther notice ſufficiently make apparent that with modeſty I may doe it, I ſhall bee willing ſo farre forth as my years and preſent being may mi<g ref="char:EOLhyphen"/>niſter occaſion, in any thankfull requitall that may bee to yeeld my ſelfe vnto you. Till which time I returne your to<g ref="char:EOLhyphen"/>ken againe, and my hearty thankes vnto you by this bearer.</p>
+               <closer>
+                  <signed>Your friend as one vnacquainted hitherto may be. <hi>I. P.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To a beauteous Lady vpon a long affection.</head>
+               <p>HOw vnpoſſible it is to keepe heat from fire, being that very nature of the element, I referre to your beſt iudgement, and how neare a ſpirit of that nature, is the loue of the heart kindled by the eye of beautie, I leaue to your kindneſſe to conſider: ſince then ſuch is the force of true loue, as cannot be ſo ſmothered vp in ſilence, but that it muſt burſt out into words and actions, either to gaine comfort, or to ſuffer death, pardon (faireſt of beauties) that Patient that in anguiſh ſéekes eaſe and deny not your help in the excellency of the cure: your beautie hath moued me, your excellent teature your comely geſture, your ſwéet be<g ref="char:EOLhyphen"/>hauiour, haue all concurred to make mée vnhappie, vnleſſe your hand helpe me, and though the hurt be more felt then ſéene, yet is it not deadly, if you be kinde: loath I am to bee a begger without deſert, and yet loue will ſtoop a high ſpi<g ref="char:EOLhyphen"/>rit,
+<pb n="10" facs="tcp:5415:8"/> which, by the bond of due honour hath ſworne me your true ſeruant: in which Title, vnder heauen, ſhall bee my hearts greateſt honor: and in the honor of whoſe fauour, ſhall be the height of my worlds happineſſe: in hope where<g ref="char:EOLhyphen"/>of, praying to the higheſt Power in the heauens to bleſſe you with all felicitie on earth, I reſt</p>
+               <closer>
+                  <signed>Your deuoted, and not to be remoued P. E.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>SIr, how eaſie it is to quench a fire in his firſt kindling, ex<g ref="char:EOLhyphen"/>perience can deliuer; in the diuerſity of hearts loue being not the leaſt that is like to doe much hurt, I wiſh you to take order with your wits, leſt it bring your braine to an ill com<g ref="char:EOLhyphen"/>fort. And therefore in placing of affection, bee not too far from diſcretion, leſt the perſwaſion of ſelfe will, be an abuſe of a better ſenſe. If I had skill in Phyſicke, I would preſcribe you helpe for your diſeaſe, but being a ſimple woman, you muſt haue patience with my plainneſſe, who not knowing how to doe you good, and vnwilling to wiſh you hurt, lea<g ref="char:EOLhyphen"/>uing you to a better Paradiſe then in the torment of an idle paſſion, I reſt in what I may,</p>
+               <closer>
+                  <signed>Yours as kindly as I find cauſe. <hi>A. N.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="11" facs="tcp:5415:8"/>
+               <head>To a iudicious Gentlewoman.</head>
+               <opener>
+                  <salute>Deare friend:</salute>
+               </opener>
+               <p>THe forcible effect &amp; conqueſt which your beauty hath wrought in my heart conſtrained me in your kindneſſe to place the hope of my fortune: beſéeching you ſo to equall your outward excellence with an inward perfection, that faith may not haue feare of fauour, where humilitie ſhall guide the courſe of affection: I ſhould eſtéeme my ſelfe the moſt vnhappie if I ſhould giue your eares any diſtaſt by my ſuit but if it light within the line of your liking, it ſhall begin the garden of my paradiſe: ſo vnder heauen ſéeking no other ſtar, then the guide of your grace to lead my heart to the ioy of my life: I reſt, neuer to reſt till I euer reſt</p>
+               <closer>
+                  <signed>Yours all, or mine owne nothing at all. E. C.</signed>
+                  <dateline>
+                     <hi>From Madrid.</hi>
+                     <date>
+                        <hi>March</hi> 26.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>I Am ſory to thinke that a ſhadow of duſt ſhould haue that force (in conceit) to rob reaſon of his contents: for beau<g ref="char:EOLhyphen"/>tie is but a ſhadow, which if your eye hath found in my face, let it goe no further leſt it doe wrong to my will in hurting your heart: my inſide I hope is farre from diſgracing any good in my outſide, and both altogether vnhappy, if they haue beene any occaſion of euill: but leaſt I may ſeeme diſ<g ref="char:EOLhyphen"/>content either at the matter or manner of your writing, I diſcharge you of the burthen of that feare, by the kinde ac<g ref="char:EOLhyphen"/>ceptation of your affection, which though I cannot anſwer as I would, yet, as in good reaſon I may, I will thinke and conſider of, which if it fall out to your liking, be not vn<g ref="char:EOLhyphen"/>faithfull in your loue, in hope whereof I reſt,</p>
+               <closer>
+                  <signed>Yours wholly, if at all. <hi>A.B.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:5415:9"/>
+               <head>To a Lady, with whom he fell in loue ſeeing her at a ſolemne Triumph.</head>
+               <p>VVHen I ſaw you (excellent Lady) viewing the Triumphs, looking vpon your eyes mee thought Heauen opened to diſcouer a greater glory, and Angells tylting there tooke from my iudgement all things elſe done out of that bleſſed compaſſe, but mine amazement became my death, and my death muſt be your Triumph, for how euer the conflict appeared, your glances which were the wounding weapons, ſtrucke through my weake ſight, and ſlew my heart, though armed in the ſtrongeſt ſort of my boſome; I am not ſo happie as to bée a priſoner (for there were hope) but ſo infortunate to die in deſpaire, that to haue the monument of my remembrance erected in the Temple of your pittie, is the vtmoſt aime my bliſſe lookes to, the cruelty of faire ones hath pronounſt my iudg<g ref="char:EOLhyphen"/>ment, and ſaith, it is impoſſible to affect where they haue not ſéene? Oh ſee me in this ſorrowfull paper, (you faireſt of adored beauties) and let that ſight moue affection, affec<g ref="char:EOLhyphen"/>tion knowledge, knowledge pittie, and pittie that worke of the higheſt, which is onely to doe miracles, ſo ſhall crueltie giue himſelfe the lie, proue you a goddeſſe, and make mee (the happieſt of men) a trumpet of your renowne and glo<g ref="char:EOLhyphen"/>rie: My loue is like your goodneſſe without parallel, my faith ſhall goe beyond that loue, and my ſeruice crowne both with an infinite merit. This is my ſacrifice, which if you accept, (excellenteſt of faire beauties, and innobled with all rich perfections) I liue, if otherwiſe, my ioy is, I periſh by ſo excellent a creature.</p>
+               <closer>
+                  <signed>
+                     <hi>Prepared to ſuffer. <hi>I. S.</hi>
+                     </hi>
+                  </signed>
+                  <dateline>
+                     <hi>From Dover</hi>
+                     <date>
+                        <hi>Iune 9. 1628.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="13" facs="tcp:5415:9"/>
+               <head>Her anſwer.</head>
+               <p>SIr, he that of a light blow with the eye, makes a deadly wound at his heart, is either too vnworthily faint, or much too ſuperſtitious in the ſignes and planets; for mine owne part, my knowledge aſſures mee I am free from any ſuch malignant influence: I confeſſe a weake appetite vnguar<g ref="char:EOLhyphen"/>ded with iudgement, nay oft ſtumble and receiue knockes: nay ſometimes fall to vtter ruine; and to giue to that weak<g ref="char:EOLhyphen"/>neſſe the gouernment of my fortune, were to rob my ſelfe of all good mens pities. In my worſt miſchances, the ils <hi>I</hi> cauſe not, reaſon cannot blame me, if I cure not, ſince what is with<g ref="char:EOLhyphen"/>out me, nothing appertaines vnto mee, but you will make my beauty guilty, poore nothing, how pittifully art thou ſlandred; which being a meere Chymera of imagination, haſt not any thing in th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, but the ſtrength of folly, and mans fancy; it is not a ſubſtance, for then it might be felt, let looſe or reſtrained; it hath no certaine ſhape, for then all men would like one figure; nor hath it any abiding, for then it would euer bee found in its owne manſion; it is not com<g ref="char:EOLhyphen"/>pounded of perfit colours for then no man would dote of mixt deformities, nor doth it ſubſiſt of reall vertues, for then no man would wed with the vicious: to conclude, it is no<g ref="char:EOLhyphen"/>thing hath hurt you, and that nothing I ſend to cure you: raſhneſſe ſhall not breed my repentance: your loue is too in<g ref="char:EOLhyphen"/>finite, your faith too worthy, and your ſeruice too rich; a meaner proportion will guard ſafeſt a meane fortune; and ſo wiſhing your great ſacrifice to a greater deitie, I reſt,</p>
+               <closer>
+                  <signed>Your beſt Counſeller. <hi>A. N.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Canterbury.</hi>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="14" facs="tcp:5415:10"/>
+               <head>To his Miſtris that was of wanton and light cariage.</head>
+               <p>BEcauſe my vow of loue (my ſometimes dearly beloued miſtris) hath made me your friend, therefore the care of your honour ſhall make me your counſeller; whether it come ſeaſonably or no, examine your heart, that it comes freely and with a wholeſome intent, truth bée my witneſſe. It is told me (miſtris) that your actions are publikely no<g ref="char:EOLhyphen"/>ted: for their contumelious leuity, and your wanton light<g ref="char:EOLhyphen"/>neſſe is ſo marked by your beholders, that contempt is be<g ref="char:EOLhyphen"/>come your onely companion your apparell is like your minde vnconſtant and vncomelie, and drawes rather ad<g ref="char:EOLhyphen"/>miration then reuerence toyes are your ſtudies, and vani<g ref="char:EOLhyphen"/>ties your practiſe, ſo that making your ſelfe a ſlaue to plea<g ref="char:EOLhyphen"/>ſure, you haue forgotten the violence of miſ-fortune, if this hee true (my dearly beloued miſtris) then in this I muſt periſh, ſince liuing in you, your leaſt fall wounds both mee and mine honour: I know you are faire and young: but if you cloath them here with vices, what will you weare in the graue, but infamie? life runs without féet, miſ-fortune ſtrikes without an alarme, and the glorie of vanitie breaks like a bubble, and leaues nothing behind but the print of diſgraces: it is too much to be euill once, for the euill is ne<g ref="char:EOLhyphen"/>uer forgotten, and it is too little not to be euer good, ſince the ſmalleſt blot daſhes all out of remembrance. I would I could as eaſilie excuſe you, as fame is apt to accuſe you: par<g ref="char:EOLhyphen"/>don me if I be too hold in writing, it is vrged by a too much boldneſſe in action the one made good, the other ſhall bee gracious beyond expreſſion; till then giue my pen leaue to kéepe my heart from breaking.</p>
+               <closer>
+                  <signed>Your griued friend, A. Z.</signed>
+                  <dateline>
+                     <hi>Farndon.</hi>
+                     <date>
+                        <hi>Apr. 1628.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="15" facs="tcp:5415:10"/>
+               <head>Her Anſwer.</head>
+               <p>A Zeale that is kindled (my beſt ſeruant) with the falſe fire of mens reports, is rather held a ſuperſtition then an honeſt deuotion; for it both wrongs truth, and wounds an innocent reputation; and thoſe light beleeuers, which build faith on ſuch weake grounds, deſerue nothing but ig<g ref="char:EOLhyphen"/>nominie and contempt: if now you accuſe my life in your abſence, where was your iudgment when I walkt in your preſence? O be not ſo falſe to the worth of your owne truth, to ſay you could not ſee that which all the world hath diſ<g ref="char:EOLhyphen"/>couered, or if you did, to be ſo blind to affect a thing vn<g ref="char:EOLhyphen"/>worthy, but it may be, abſence hath begotten new thoughts, thoſe thoughts new affection, and that affection muſt needs finde a new quarrell with old friendſhip: if it be ſo, your owne courſe lead you. I freely confeſſe I am not ſuch a beg<g ref="char:EOLhyphen"/>ger that can weare rags, ſuch a miſer that can eate roots, nor ſo ſubtile to ſpeake like a Iugler, with a reed in my mouth: Truth I ſerue, freedome I loue, and plainneſſe is my condi<g ref="char:EOLhyphen"/>tion. If theſe haue taſts you cannot reliſh, you muſt in ſome other ſoyle ſeeke new comforts, for mine owne part I will be no bondſlaue to opinion, till I know it conſtant, nor no ſeruant of the time, till it be vncorrupt, and more honeſt. As for my life, had it for euery feather a wing, and my for<g ref="char:EOLhyphen"/>tune double ſo many hazards, yet will I bring the one to my graue with honour, and make the other aſhamed with my ſufferance. I reſt,</p>
+               <closer>
+                  <signed>Your iniured miſtris. D. P.</signed>
+                  <dateline>Maidſton.
+<date>May. 7.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="16" facs="tcp:5415:11"/>
+               <head>A deſperate Louer to his <hi>quondam</hi> Miſtris.</head>
+               <p>IT ſhall be vertue in you (faireſt) to receiue my deſpaires though you <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no comforts, and if in the reading you vouchſafe a ſigh to my remembrance, it is a dirge that ſhall make me for euer ſléepe in quiet: deſpaire long ſince gaue me iudgement, and obedience onely ſhall make my death patient: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is neceſſary I die for you, ſince fate de<g ref="char:EOLhyphen"/>nies me to liue with you, for my ſelfe is ſuch an interpoſiti<g ref="char:EOLhyphen"/>on betwixt you and your glorie, that my griefes would kéepe much of your Sunne eclipſed: I know my wants, and that there is nothing either in my life or fortune to de<g ref="char:EOLhyphen"/>ſerue you, onely an infinite deſire, which but by death can neuer bee leſſened, then ſince all things ſuit with my de<g ref="char:EOLhyphen"/>ſpaires, be all delaies with your loue (euer farre from me) and let the world onely remember this in my Epitaph, that it was not my folly, but your will; not my deſpaire, but truth in obedience: But O this is that I ſhould doe, not ſpeake: and the muſicke is more vnfit for your eare, then your loue for my heart: pardon my tell-tale ſorrow, it rather ſpeakes things fit to bée done, then done, and will ſooner craue the glorie in wiſh then action, and yet the poi<g ref="char:EOLhyphen"/>ſon of diſdaine is ſo violent, I know it will waſt me, and waſt me it ſhall, for my comforts are alreadie conſumed, and in that conſumption let all things but my memorie turne to its firſt Chaos, and ſo liue as happie as I vnfor<g ref="char:EOLhyphen"/>tunate:</p>
+               <closer>
+                  <signed>Onely in remembrance. F. L.</signed>
+                  <dateline>
+                     <hi>Northampton.</hi>
+                     <date>
+                        <hi>Septemb.</hi> 6.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="17" facs="tcp:5415:11"/>
+               <head>Her Anſwer.</head>
+               <p>HOw much I ſtand diuided with the vnreſonableneſſe of your affection, my diſtracted writing may witneſſe; wherein I can obſerue no order, becauſe nothing in your de<g ref="char:EOLhyphen"/>ſires holds good proportion, you bid me loue, and will not heare when deſtiny denies it, and you ſeeke that rule from me, which is quite taken out of my knowledge (deare Sir) awaken vp your firſt wiſedome, and tye your actions on pro<g ref="char:EOLhyphen"/>uidence, then ſhall you ſee I haue leſſe power to draw on mine, then you to withdraw your affection: will you make beauty ſuch a ſlaue, that it muſt obey euery gaze, or the poore owner ſo vnfortunate, that ſhe muſt be ſeruile to the deſire of any wilfull longing, then ſo, how much ſafer were it to be foule and fortunate? But you will dye, woes me that folly ſhould make you ſo impudent, to boaſt you dare doe a ſinne ſo damnable; but I know you will dye but as actors dye, in one ſcaene and reuiue in the next, to make it more glorious, thus to dye I allow you, and to ſuch I will giue a ſmile for pitty: to any other a charitable teare, to thinke that any Gentleman ſhould become a traitor to Nature. Laſtly, let me win you by the loue you boaſt of, neuer henceforth to ſollicite me, for as no reliefe can come from ſuch vaine labour, ſo nothing but great diſdaine will grow from my vexation: So hoping you will make that hope deſperate, which is without all hope of vertue, I reſt,</p>
+               <closer>
+                  <signed>Your chaſt friend. P. C.</signed>
+                  <dateline>Rowel
+<date>March 7.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="18" facs="tcp:5415:12"/>
+               <head>A Letter of true kindneſſe.</head>
+               <p>IF dame Nature had béene pleaſed to haue made my bo<g ref="char:EOLhyphen"/>ſome tranſparent, your eies ſhould ſee the ſecrets of my heart, which if it haue any happineſſe in the world, it is in the hope of your fauour: but amazed with the admirati<g ref="char:EOLhyphen"/>on of your worth, I know not what to ſay of your worthi<g ref="char:EOLhyphen"/>neſſe, but onely this, that finding the due of your deſert ex<g ref="char:EOLhyphen"/>ceeding my capacitie in commendatio<g ref="char:cmbAbbrStroke">̄</g>, I wil leaue the excel<g ref="char:EOLhyphen"/>lencie thereof to more honourable inuention, and thinke Fortune enough fauourable, if ſhee prefer my ſeruice to your commandement: preſents I haue none worthy the ſending, but the heart of my loue at your emploiment which being nothing more then what you will, I reſt, euer one and the ſame.</p>
+               <closer>
+                  <signed>Your ſeruant. W. W.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>IF your ſpeeches be led by your thoughts, it is needleſſe to deſire a tranſparencie in your boſome, for when as the heart and the tongue agree together, then mens proteſtati<g ref="char:EOLhyphen"/>ons are followed with reall performance: words of admira<g ref="char:EOLhyphen"/>tion trouble diſcretion, in conſtruction, and eloquence in loue hath not the beſt commendation, inuentions are ready where fancy is ſtudious, but where wit is vertuous, there is will gracious: your preſent moſt worthy of all acceptance, cannot be better requited then thankfully remembred, and if conceits meet in a mutuall content, what comfort may fol<g ref="char:EOLhyphen"/>low, I leaue to the heauens fauour, and ſo I reſt,</p>
+               <closer>
+                  <signed>Your friend. <hi>A. W.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="19" facs="tcp:5415:12"/>
+               <head>A Letter of counſell from a diſcreet mother to her daughter newly maried.</head>
+               <p>MY good daughter: thou art now going into the world, and muſt leaue to be a child, and learne to be a mo<g ref="char:EOLhyphen"/>ther, and looke to a familie, rather then to the intertain<g ref="char:EOLhyphen"/>ment of a friend, and yet both neceſſarie, in their kinds: finde the diſpoſition of thy husband, and in anie wiſe moue not his impatiencie, let thy kindneſſe bind his loue, thy vertue his comfort, thy huſwiferie his commendations: auoid tatling goſſips, yet be kind to thy neighbours, and no ſtranger to thy kindred: be gentle to thy ſeruants and not ouer familar: haue an eie to thy doore, and a locke to thy cheſt: keepe a bit for begger, and a bone for a dog: cheriſh the Bée that brings home honie, and make much of the Cocke that makes much of his Chickens, take heed abroad of the Kite and within of the Rat: pray to God for his bleſſings on all thy proceedings, and haue a religious care of thy modeſt gouernment; and rather for charitie then praiſe, giue relife vnto the poore; if at any time thou haſt need of any good I can doe thee, be aſſured whilſt thou haſt a mother, thou haſt a friend: ſo hoping in thy kind<g ref="char:EOLhyphen"/>neſſe, thou wilt take care of thy counſell, beſeeching God to bleſſe thée, that I may euer haue ioy of thée, with my hearts loue, to his tuition I leaue thée.</p>
+               <closer>
+                  <signed>Thy moſt louing mother. R. S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>MY good Mother: I haue paſſed the yeares of a childe, and know the care of a mother, and therefore for your kind aduiſe for my cariage I thanke you, and what benefit I
+<pb n="20" facs="tcp:5415:13"/> will make of your leſſons, you ſhall finde in the fruit of my obſeruation, I am but newly come into the world, and God knowes when I ſhall goe out of it; and am yet ſcarce warme in my houſe, and therefore hardly know yet how to goe through it. For me husbands humour, if he alter not his na<g ref="char:EOLhyphen"/>ture, I doe not doubt but wee ſhall liue as Doues, while care and kindneſſe ſhall continue content: my ſeruants ſhall find me both a miſtris and a friend; my neighbours no ſtrangers, and idle goſſips no companion. Thus in the duty of loue, with thankes for your motherly care, in prayer to the Al<g ref="char:EOLhyphen"/>mighty to bleſſe me with his grace, and to liue no longer then in his loue and yours: I take my leaue, for this time, but reſt during life,</p>
+               <closer>
+                  <signed>Your moſt louing daughter, <hi>P. E.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter in caſe of wrong ſuppoſed to be committed.</head>
+               <p>SIr, your Letter is more troubleſome to my conceit then ſauouring (as I am credibly led to thinke) of that your wonted moſt noble diſpoſition vnto me I haue receiued. With what ſupportation and vnaccuſtomed griefe I haue retained them, I referre to any one (guiltleſſe accuſed and ſuſpended from ſo high ſauours, as formerly by your boun<g ref="char:EOLhyphen"/>tie to me haue beene performed) ſimply to bee coniectured. Long was it ere I could ſatisfie my ſelfe by any acceſſe that might be, to profer my ſelfe or theſe humbled Letters vnto you, yet neuertheleſſe weighing how farre different thoſe new occurrents were from thoſe your ancient fauors, I ſurmiſed with my ſelfe that the inſtigation procéeded ſolely from others, hardly perchance bearing thoſe graces
+<pb n="21" facs="tcp:5415:13"/> wherein I ſtood with you, and becomming thereupon my bitter enemies, the ſiniſter deuiſe whereof ſtood vpon me wholly to ouerthrow or impugne. For which hauing no other nor better meanes at this time then theſe ſubmiſſiue lines, I purpoſe them vnto you as ſolicitors of your former liking, confeſſing if in any waies I haue erred vnto you, as I will not vtterly ſeclude my ſelfe from euery error, it was but as a young man rather by ignorance then of ma<g ref="char:EOLhyphen"/>lice any way to be intended: as touching any other obiecti<g ref="char:EOLhyphen"/>on, let me but craue pardon to haue acceſſe vnto your pre<g ref="char:EOLhyphen"/>ſence, and then iudge as you finde me: two waies are only left, my accuſers to my face, or mine owne ſimplicitie to cleare me. This is all I require, and ſo much I hope you will not denie me: wherewith reſting in due acknowledge<g ref="char:EOLhyphen"/>ment of that your former bountie, I humbly ſurceaſe, this 15 of Decemb. 1628.</p>
+               <closer>
+                  <signed>Yours to command. T. C.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from a Seruant to his Maſter.</head>
+               <p>SIr, my humble dutie remembred, vnto you, and to my good miſtris. You may pleaſe to vnderſtand that I haue diſpatcht the buſineſſe vnto Maſter <hi>C.</hi> for the monie you ſent mee for, and haue giuen him an acquitance for the ſame, and according to your good remembrance vnto <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, I haue bought for you twelue gallons of the beſt Sacke, and eighteene gallons of Claret, and fifteene yards of fine Broad cloath, and thirtie ells of fine Holland all which I hope by Gods grace ſhall come vnto your hands: I haue ſent you alſo here incloſed your Bill of parcels, and their ſeuerall prices.</p>
+               <pb n="22" facs="tcp:5415:14"/>
+               <p>I wrote formerly vnto you for certaine commodities out of the Country, which I haue now receiued by the Carrier. Here is at this preſent ſmall newes worth the writing vn<g ref="char:EOLhyphen"/>to you: wherfore praying vnto all Almighty God for the health and proſperity of you and all yours, I humbly take my leaue, and reſt,</p>
+               <closer>
+                  <signed>Your faithfull and ready ſer<g ref="char:EOLhyphen"/>uant to command, I.P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>An anſwer of a Letter for courteſie and fauour receiued.</head>
+               <p>MY good friend M. <hi>G.</hi> how much I am bound vnto you for multitude of fauours, and eſpecially for that you haue made choice of me, as to write your kinde and friendly Letters in my befalſe, I can no other waies ex<g ref="char:EOLhyphen"/>preſſe, then to continue your affectionate poore friend, and will for euer acknowledge it, as of your great kindneſſe be<g ref="char:EOLhyphen"/>yond any merit of mine owne, and as by duty I am bound, no day ſhall paſſe me that I will not pray to God for your health and proſperitie, and the redoubling of your daies: beſeeching you to excuſe me in that in perſon I cannot doe or performe what I deſire, by reaſon at this time ſome haſt extraordinary will not permit me. I therefore moſt hum<g ref="char:EOLhyphen"/>bly take my leaue of you,</p>
+               <closer>
+                  <dateline>
+                     <date>this 14. May.</date>
+                  </dateline>
+                  <signed>Your affectionate poore friend, P. C.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="23" facs="tcp:5415:14"/>
+               <head>The Fathers Letter againſt the Sonne.</head>
+               <p>THe ſight of your Letters and meſſage receiued by your ſeruant, haue (good Couſen) bred to me in peruſing and hearkning vnto the ſame no ſmall matter of diſquiet: not that your letters or meſſages for themſelues are or haue béene at any time ill welcome to my hands, but in re<g ref="char:EOLhyphen"/>ſpect of him for whom they come, ſo filled haue I beene long ſince with the euils by him committed. I am nothing ig<g ref="char:EOLhyphen"/>norant that of meere loue and good will you framed your ſpéech vnto me in the behalfe of my vngratious Sonne. I neede not repeat here vnto you with what fatherly care I haue brought him vp to mans eſtate how likewiſe I ſought both with maintenace and place of credit to continue him as a Gentleman. I placed him with a right godly and worſhipfull Knight Sir <hi>T. H.</hi> who for my ſake loued him, and I know tooke paines to reforme him. Complaints were infinite againſt him. This man could not be quiet for him, that mans ſeruants he miſuſed: this party hee decei<g ref="char:EOLhyphen"/>ued, and others hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hly wronged. Since which, too much to be reuealed how ſtubbornly in mine owne houſe, how in<g ref="char:EOLhyphen"/>iuriouſly amongſt mine owne people hath he behaued him<g ref="char:EOLhyphen"/>ſelfe. And becauſe it was againſt Chriſtmas, and I would not diſmiſſe him vnfurniſhed, I gaue him for himſelfe and his man a couple of good Geldings, and twentie pound in his purſe: he was no ſooner gone twentie miles, but ſpent his money at Cards and Dice, pawnd his apparell, ſold his Geldings, and in the end comming to one of my tenants to borrow money which he denied to lend him, hee fell vpon him and beat him. Thus (louing Couſen) you ſee in part his ill led life, and may thereby conceiue my griefe. Sen<g ref="char:EOLhyphen"/>ding in the meane time my commendations and earneſt thanks for your care of my well being, to you and your bed<g ref="char:EOLhyphen"/>fellow. </p>
+               <closer>
+                  <dateline>
+                     <date>This 20 Aug. 1628.</date>
+                  </dateline>
+                  <signed>T. R.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="24" facs="tcp:5415:15"/>
+               <head>The anſwer.</head>
+               <p>I Haue receiued your letter (my kind vncle) in anſwer to the laſt letter I ſent, which was the buſineſſe of your ſon. I am very ſory that a Gentleman of your grauity and know<g ref="char:EOLhyphen"/>ledge in the world, and for the good eſtimation that the country hath of you, that Maſter <hi>F. C.</hi> your ſonne ſhould deale ſo vnkindly with you. I know your fatherly care of him from time to time, and how diligent, and not ſparing any coſt in bringing him vp; and to place him with a gentle<g ref="char:EOLhyphen"/>man of the beſt ranke in all the country was nobly done, yet with all you might (if ſo you pleaſe) doe well to conſider he is your owne ſonne, and if you looke into your owne youth, you ſhall finde theſe were your youthfull ſtraines, and ſo much the more to bee borne withall, and time and age will tame all theſe things in an ingenious and witty Gentleman. I deſire you for my ſake retaine him kindly in<g ref="char:EOLhyphen"/>to your fauour this once more, for he hath (vpon the repu<g ref="char:EOLhyphen"/>tation of a Gentleman) promiſed neuer to doe the like enor<g ref="char:EOLhyphen"/>mities, but to liue as a moſt dutifull and louing ſonne: and for the ſame I dare paſſe my credit. I pray you entertaine him reſpectiuely, and I will euer remaine,</p>
+               <closer>
+                  <signed>Your louing kinſman, <hi>T. F.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="25" facs="tcp:5415:15"/>
+               <head>To his miſtris <hi>(quondam)</hi> hauing ſpent all his meanes vpon her in proſperitie, he being impriſond ſhe forſakes him.</head>
+               <p>IF my paper were made of the skins of croking Toades, or ſpeckled Adders, my inke of the blood of Scorpions, my penne pluckt from the Screech-owles wings, they were but fit inſtruments to write vnto thee, that art more ve<g ref="char:EOLhyphen"/>nemous, more poiſonous, more ominous, then the worſt of theſe: for doe but deſcend into the depth of thy guilty con<g ref="char:EOLhyphen"/>ſcience, and ſée how manie vowes, promiſes, and deepe proteſtations, nay millions of oathes haſt thou ſworne thy fidelitie vnto mée, which one day will witneſſe againſt thee. If I ſhould ſpeake with the voice of Mandrakes, or as loud as the noiſe of the Summers thunder, yet could I not proclaime vnto the world thy infinite baſeneſſes; I being ſo firme and conſtant vnto thée when I ſwomme in the golden flouds of proſperitie, then waſt thou (as often thou didſt proteſt) firme and conſtant vnto mée. But when the water began to ebbe, and my ſhip run on ground, then (like thy ſelfe) thou forſookeſt me At firſt thy loue was as hot to me as an Italian to a wench of fifteene, but when my gold was ſpent and conſumed, then thy loue grew as cold to me as a Fiſhmongers fingers are in a great froſt. Doe not thinke I write this vnto thee to bée a meanes to helpe me in this my great diſtreſſe and impriſonment: for know thou though all my friends haue forſaken me, nay though death, griefe, affliction, and all the miſeries that poſſibly can befall a miſerable man in this wretched world while he liueth here, and all theſe griefes doe euerie minute torment me, yet I had rather fall by their force, then riſe by thy aſſiſtance, ſo hatefull, grieuous, ſo loathſome, ſo tedious and ſo incomparably abominable is thy very name vnto me.</p>
+               <pb n="26" facs="tcp:5415:16"/>
+               <p>Leproſie compared to thée, is all health, and all manner of infection but a flea-biting, and all manner of diſeaſes, though they were fetcht from twentie Hoſpitals, were but like the fit of an Ague: for thou art all Leproſie, all diſea<g ref="char:EOLhyphen"/>ſes, for neither thy bodie nor thy ſoule are frée, thy body from the diſeaſe of ſhame and diſgrace of the world, nor thy ſoule frée from the ſickneſſe of ſinne. God amend and pardon thée.</p>
+               <closer>
+                  <signed>Once thy friend. I. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To his friend lying long ſicke.</head>
+               <p>MY worthie friend Maſter <hi>Prince:</hi> though the diſtance of place be ſuch, that we cannot heare one another, you in the center of the Kingdome <hi>(London)</hi> I at <hi>Yorke,</hi> yet you ſhall ſée me in my Letter, my tongue, my penne, my heart, are all your ſeruants. You plainly perceiue a long lingring ſickneſſe will draw you to a long deſired reſt, where long your mind hath had his reſidence. You now perceiue Fame is but ſmoake, metalls but droſſe, pleaſure but a pill with ſugar. All theſe earthly delights if they were ſound, how ſhort they are, fléeting euery day: they are but as a good day betwixt two Agues, or like <hi>Sodomes</hi> Apples, faire red outſides, being handled are blacke duſt. I admire the faith of <hi>Moſes,</hi> but preſuppoſing his faith, I wonder not at his choice, that he preferred the afflictions of <hi>Iſrael</hi> to the pleaſures of <hi>Aegypt,</hi> and choſe rather to eate the Lambe with ſowre herbes, then all their fleſh-pots. That God hath giuen you a vertuous wife, dutifull children, wealth in abundance, an honeſt eſteeme and good repute amongſt your neighbours, and the generall loue of your
+<pb n="27" facs="tcp:5415:16"/> countrie where you liue, are fauours that looke for thanks. Who would deſire to liue, that knowes his Sauiour died, who can be a Chriſtian and would not be like him? Could you be happy and not die? indéed Nature knowes not what ſhe would haue. Our friends of this world can neither a<g ref="char:EOLhyphen"/>bide vs miſerable in our ſtay, nor happie in our departure. What God hath giuen you on earth, is nothing to that hée will giue you in heauen: you are a ſtranger here: there at home. There Saints and Angles ſhall applaud you, there God himſelfe will fill you with himſelfe: haue patience in all afflictions, and reade the troubles of <hi>Iob,</hi> and in that exerciſe your ſelfe both day and night, vntill God ſhall ei<g ref="char:EOLhyphen"/>ther mend or end theſe your daies on earth. To which great God and mercifull Lord I commit you, praying for your eternall reſt.</p>
+               <closer>
+                  <signed>Remaining your friend; I. M.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter wherein is recommended to a Nobleman from his inferiour the conditions and behauiour of a perſon.</head>
+               <p>MAy it pleaſe your Lordſhip, this Gentleman the bearer hereof, with whom along time I haue beene acquain<g ref="char:EOLhyphen"/>ted, and of his qualities and good behauiour haue ſound and large experiment, hauing béene a good time a ſuter vnto me to moue this preferment vnto your Lordſhips ſeruice, I haue now at laſt condiſcended vnto, as well for that I know your Lordſhip to bee now preſently diſfurniſhed of ſuch a one, as alſo that there will hardly bee preferred vpon the ſudden any one ſo meet as himſelfe to ſupply that place. And thus much by your pardon and allowance daie I aſ<g ref="char:EOLhyphen"/>ſure
+<pb n="28" facs="tcp:5415:17"/> vnto you, that if it may pleaſe you in credit of my ſimple knowledge and opinion to imploy him, you ſhall finde that, beſides hée is in parentage deſcended from ſuch of whom I know your Lordſhip will very well account of, he is alſo learned, decréet, ſober, wiſe, and moderate in all his actions, of great ſecreſie, aſſured truſt, and well gouer<g ref="char:EOLhyphen"/>ned in all companies. Finally, a man ſo méet and to this preſent turne ſo apt and neceſſarie, as I cannot eaſily ima<g ref="char:EOLhyphen"/>gine how you may be ſerued better. Pleaſeth your Lord<g ref="char:EOLhyphen"/>ſhip the rather, for the great good will I beare him, and humble duty I owe vnto you, to accept, imploy, and ac<g ref="char:EOLhyphen"/>count of him: I nothing doubt but your Lordſhip hauing by ſuch meanes giuen credit to my choice, ſhall finde him ſuch as for whoſe good ſeruice you ſhall haue further occa<g ref="char:EOLhyphen"/>ſion to thinke well of me for him. Whereof nothing doubt<g ref="char:EOLhyphen"/>ting, I doe referre both him and my ſelfe, in all humblenes to your beſt and moſt fauourable opinion. From my houſe in <hi>Arthingworth,</hi> this 5 of Iune.</p>
+            </div>
+            <div type="letter">
+               <head>The Anſwer.</head>
+               <p>AFter my hearty commendations vnto you. Sithence the receipt of your laſt letters and commendations of <hi>W. R.</hi> into my ſeruice, I haue had ſmall occaſion either to write or to ſend vnto you till this preſent; and for as much as vpon your certaine notice deliuered vnto me in fauour of his preferment, I held my ſelfe ſo well aſſured in all things of his behauiour, as I doubted not thereupon to receiue him into place of greateſt fidelity; I haue thought good hereby to let you vnderſtand, what great pleaſure I haue taken in his diligent attendance, aſſuring you, for many vnexpected qualities, which I haue proued to be in him, and that with ſo good affection as that I intend not omit any thing that may tend to his aduancement. In beholding of him often<g ref="char:EOLhyphen"/>times, methinkes he many waies doth reſemble his father, whoſe ſound truth I doe ſuppoſe might haue beene entertai<g ref="char:EOLhyphen"/>ned
+<pb n="29" facs="tcp:5415:17"/> with the beſt for his well deſeruing: this bearer ſhall in<g ref="char:EOLhyphen"/>forme you of two ſpeciall cauſes concerning my affaires in the countrie, whom I doe pray you to conferre with, and to afford him your trauell for his preſent diſpatch, which I will not fail: heartily to require vnto you. For your care had of my wants, and diligent ſupply of ſuch a one, I doe many times thanke you, and haue promiſed in my ſelfe to become a debter vnto you. And euen ſo I bid you heartily farewell.</p>
+               <closer>
+                  <dateline>From the Court
+<date>this 5. of May, 1628.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A merry Letter to his friend in London.</head>
+               <opener>
+                  <salute>Heroicall ſpirit:</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Haue receiued your Epiſtle of alacritie and remaine much indebted to your kinde heart for vouchſafing vs poore countrie Swaines ſo much of the labour of your pen to deceiue ſlow-footed time withall: Thankes vnto the Almightie, I haue had my health indifferent well ſince my comming downe onely the ſeparation of my ſecond ſelfe hath beene a continuall ſickneſſe vnto me: to remedie which I haue hitherto found out no better way then to call for a cup of Rubicular, to helpe to exhilerate and corroborate my fatigated ſpirits. We Ruricolars are verie barren of anie noueltie worthie the preſenting to your curious vnderſtan<g ref="char:EOLhyphen"/>ding, but doe preſume out of the bundle of your affection that you that liue at the wels head will be pleaſed to vouch<g ref="char:EOLhyphen"/>ſafe vs your poore friends a report by your Letters, at leaſt of ſuch Exchange newes as paſſeth currant amongſt you, which wee ſhall take as a ſpeciall fauour from you and ſtu<g ref="char:EOLhyphen"/>die how to remunerate We are at this preſent putting foot into the ſtirrop, and riding ſome dozen horſe of vs to a ma<g ref="char:EOLhyphen"/>ritine coaſt, where there will be prouided for vs all the rari<g ref="char:EOLhyphen"/>ties
+<pb n="30" facs="tcp:5415:18"/> for fiſh the Sea can afford, where I will not bee vn<g ref="char:EOLhyphen"/>mindfull to remember all your healths in a full ocean. In the meane time commending my loue to my louing ſiſter your wife, with your worthie ſelfe and all our friends, I wiſh you all true happineſſe ſutable to a braue diſpoſition, and will euer reſt,</p>
+               <closer>
+                  <signed>
+                     <hi>Your aſſured l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uing Brother. R. S.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter gratulatorie.</head>
+               <opener>
+                  <salute>
+                     <hi>Good M<hi rend="sup">r</hi>. <hi>P.</hi>
+                     </hi>
+                  </salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Am yet to learne the phraſe and method how to write to ſo beneficient a friend as your ſelfe, to whom I ſtand obliged more by deſert then I can anſwer with requitall, and more in affection then I am able to merit: a predica<g ref="char:EOLhyphen"/>ment it is into which I am eaſilie and often (as it were) precipitated, and out of which to raiſe my ſelfe fortune only hath diſabled me, who if with her gifts ſhe had ſupplied my wants, and giuen me competent wealth to the freedome of my will my honeſt heart ſhould not be debtor to the hand of any, nor ſhould my diſabilitie curbe the ſcope of my af<g ref="char:EOLhyphen"/>fection: but ſeeing wiſhes are but vaine, I pray you accept theſe my lines as tokens of the remuneration of my thanks and the acknowledgement of the loue of</p>
+               <closer>
+                  <signed>Your humble ſeruant. D. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="31" facs="tcp:5415:18"/>
+               <head>A Letter to his ſilent friend.</head>
+               <p>YOu are happily innocent (deareſt friend) what paine I am in, and with what vnreſt I ſpend my irkſome daies, through your parcimoniouſneſſe, and ſparing of a little inke and paper: Is it not enough that I am depriued of your ſight, but I muſt be alſo vnſaluted by your Letters, one of them alone doth too waightily oppreſſe me with ſor<g ref="char:EOLhyphen"/>row, and ouerwhelme my heart with diſquietneſſe. As place hath wrought a ſeparation betweene our bodies, will your permit alſo that a few daies abſence ſhall burie each others remembrance in the Lethean waues of obliuion; oh be not ſo iniurious vnto ſacred friendſhip, which is the greateſt ioy allotted vnto mortall men in all the vniuerſe: I haue got the ſtart of you in writing, but I hope I ſhall not néed to ſend you anie more expoſtulatorie Letter for your ſlackneſſe in this kind. For the ſound ſtate of my bo<g ref="char:EOLhyphen"/>die I am well, yet I cannot be ſaid to be perfitly well, be<g ref="char:EOLhyphen"/>ing (as I am) ſo ſolicitous for your welfare, and ſo igno<g ref="char:EOLhyphen"/>rant of your health, who are <hi>animae dimidium meae.</hi>
+               </p>
+               <closer>
+                  <salute>Farewell.</salute> 
+                  <signed> 
+                     <hi>Animae dimidium tuae. L. M.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Anſwer, excuſing his not writing.</head>
+               <p>LEt the multitude of my buſineſſes and my want of bo<g ref="char:EOLhyphen"/>dily health, and debilitie, plead my excuſe with you for my remiſſeneſſe in writing. The drift of theſe preſent lines is to apologize for that I writ to you no ſooner, and to en<g ref="char:EOLhyphen"/>quire of your health and welfare. Compare not, nor doe not thinke my loue as little as my writing, for I proteſt vn<g ref="char:EOLhyphen"/>fainedly, that if I may ſtead you in any kind, or if my meanes can procure any thing to make a clearer manifeſtation of my
+<pb n="32" facs="tcp:5415:19"/> manifold loue you ſhall aſſuredly find whenſoeuer any oc<g ref="char:EOLhyphen"/>caſion ſhall offer it ſelfe to you, to make triall what great in<g ref="char:EOLhyphen"/>tereſt you haue in me and my beſt affection, I ceaſe, euer <hi>reſting</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Yours <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> my power.</hi> W. W.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter expoſtulatory for breach of promiſe.</head>
+               <p>IT had béene more honeſtie in you to haue giuen mee a ſpéedie deniall, then not to perform what you ſo conſtant<g ref="char:EOLhyphen"/>lie promiſed me, for then you had not iniured mee, becauſe you had not owed me any thing. Promiſe is debt: for I yet hope you are none of the number of thoſe men who thinke promiſes doe not bind them vnto performance: this is my beleefe of you yet, it is in your power to make mee hold or alter my opinion. I onely deſire thus much of you, if you will not doe me that good turne, yet leau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e doing me iniurie: feed mee not with improficient words, but bid mee not truſt any longer to vaine hopes. In briefe, you ſhall much oblige me by doing that kindneſſe, by omiſſion there<g ref="char:EOLhyphen"/>of you ſhall make me muſe at the lacke of your fidelitie, and at your careleſſeneſſe to incurre the report and infamie of a diſhoneſt man.</p>
+               <closer>
+                  <signed>
+                     <hi>Your iniured friend. <hi>H. G.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To his friend falne to pouerty.</head>
+               <p>IF your weath had béene the foundation of my loue, I ſhou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d now ceaſe to loue, becauſe you are no longer rich,
+<pb n="33" facs="tcp:5415:19"/> but ſhould I now ſo erre, I ſhould ſhew my ſelfe to haue béene vnto you in your proſperitie not a friend, but (like vnto the reſt that haue derelinquiſhed you in your pouer<g ref="char:EOLhyphen"/>tie) a meere flatterer: wee ſée how during the Summer time the Swallowes flocke to our houſes, we may obſerue how Mice will be ſure to get into the barne that is reple<g ref="char:EOLhyphen"/>niſhed with corne and while the pot hath anie honie it is hard keeping the flies away: but rare is the friendſhippe which fleets not in the probation time of aduerſitie. Be<g ref="char:EOLhyphen"/>ſides that poore comfort of aduerſitie, pitie, I lend you the ſumme of twentie pound, which ſo long make vſe of till Time, the mother of of mutations, encreaſe your ſtore with a proportion able to make repaiment to</p>
+               <closer>
+                  <signed>Your friend to his abilitie. I. R.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter of a Gentlewoman to a Gentleman with whom ſhe fell in loue.</head>
+               <p>IF euer I could wiſh my ſelfe vnborne (moſt worthie ſir) or my well being taken from mee, I call truth and my ſometimes modeſtie to witneſſe, it is now: not that I haue found you, but that I am forced thus to ſeeke you. Call to mind (faire, and I hope vertuous Sir) ſome horrid and violent women, taken with the loue of their owne fathers, as was <hi>Micah;</hi> or inceſtuouſly purſuing their néereſt bro<g ref="char:EOLhyphen"/>ther, as was <hi>Biblis:</hi> ſo my affection will appeare more mo<g ref="char:EOLhyphen"/>deſt, and my ſuite more pardonable: I dearely loue you, (and in ſo ſaying me thinkes the gods bluſh to heare me,) who in the ſtricteſt lawes of deſire are moſt worthie to bee loued, whoſe vertues might inflame a Nunne, and excel<g ref="char:EOLhyphen"/>lenteſt
+<pb n="34" facs="tcp:5415:20"/> qualities take the moſt retired: If I haue (as I know too well I haue) contrarie to the nature and cuſtome of Virgins, our-ſhot my ſelfe in my violent paſſions, par<g ref="char:EOLhyphen"/>don her that had rather die then make it knowne, yet chuſeth rather to make it knowne, then not enioy you ſo deſired, and farre more worthie to be deſired. If you were acquainted what afflictions I ſuffer in my diſcouery, yet fearing all well not ſerue, you will, I hope, rather incline to pitie, then diſdaine: little will the death of a ſilly may<g ref="char:EOLhyphen"/>den auaile the triumph of your beautie, and the ouerthrow of my credit leſſe benefit your vertue. Raiſe me from the one by your loue, &amp; aſſure me from the other by your ſecre<g ref="char:EOLhyphen"/>ſie: whilſt I will euer remaine a moſt conſtant votareſſe to all your perfections, bleſſing the parents that left behind them ſuch an iſſue.</p>
+               <closer>
+                  <signed>Neuer leſſe her owne. R. D.</signed>
+                  <dateline>
+                     <hi>Althorp.</hi>
+                     <date>
+                        <hi>May</hi> 22.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>His Anſwer.</head>
+               <p>HOw happie may I account my ſelfe (ſweeteſt of crea<g ref="char:EOLhyphen"/>tures, and beautifilleſt of women) that hauing bound my ſelfe in the ſearch and purſuite of a iewell, haue it now of<g ref="char:EOLhyphen"/>fered and giuen into my hands, farre aboue my expectation; farre tranſcending my hopes; I accept it as louingly, as you freely beſtow it, and will account it no leſſe deare and per<g ref="char:EOLhyphen"/>tious, then if much time and long labour had beene the pur<g ref="char:EOLhyphen"/>chaſe of it, eſteeming it a bleſſing throwne vpon me, by the appointment of the higheſt, and ſutable to my happy de<g ref="char:EOLhyphen"/>ſires. Nor ſhall I need to load my memory with thoſe hor<g ref="char:EOLhyphen"/>rid examples, to giue your loue a freer and welcomer paſ<g ref="char:EOLhyphen"/>ſage into the very depth of my loue and choiſeſt deſires: to loue we were made, and by loue we are made: they onely are without being that haue not the heauenly taſte and en<g ref="char:EOLhyphen"/>ioying
+<pb n="35" facs="tcp:5415:20"/> of it, I onely deny thoſe excellencies which you lay to my vnguilty charge, it was the reflection of your owne worth (ſtrucken from me) which hath <hi>Narciſſus</hi> like ſo in<g ref="char:EOLhyphen"/>amoured you, it was your owne image ſhowne in my eies, which hath thus captiuated you: which ſince you like in ſo dim and dull a myrrour, I will cheriſh, and make much of it onely for your ſake, that you may the perfect lier ſee your ſelfe, and the more loue me: for your loue, take all I am; for my ſecreſie, I will not breathe it to my ſelfe how I attaine this happineſſe, but liuing and dying, reſt the true honou<g ref="char:EOLhyphen"/>rer and admirer of your worth and vertue,</p>
+               <closer>
+                  <signed>Yours more then his owne. <hi>H. H.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from a Chapman in the Country to a Tradeſman in London.</head>
+               <p>MY louing and kind friend M. <hi>G.</hi> you haue done mée much wrong in detaining the wares I writ for: I haue diſappointed ſome Gentlemen in relying vpon you, whoſe cuſtome hath much aduantaged me: my credit I hope will euer be aboue that value: and my dealing for much more yearly betwéene vs might without other cir<g ref="char:EOLhyphen"/>cumſtances therein haue ſatisfied you: I muſt tell you plaine, in the countrie there are many good men, whoſe eſtates are knowne very ſufficient, which cannot raiſe money vpon their credit in an inſtant: we want a common banke with vs which might furniſh vs ſuddenly and tho<g ref="char:EOLhyphen"/>rowly: Broakers trade not here, nor Vſurers take their place, but in Summer for their recreation: thinke, friend, me an honeſt man, and ſo you haue much cauſe to thinke: confident in which, though my eſtate were brittle, (as I
+<pb n="36" facs="tcp:5415:21"/> thanke God) I know it is ſure: you may be armed, I will neuer faile nor deceiue you. I roue not beyond my com<g ref="char:EOLhyphen"/>paſſe, neither make a ſure foundation out of other mens ruines, but content with a little leauing a bleſſing to my children, and a good memorie amongſt my neighbours. Let me heare from you concerning the cauſe of this breach, and a note of the reckoning betwéene vs, which I will make euen, and rather reſt honeſt then rich.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Septemb.</hi> 6,</date>
+                  </dateline>
+                  <signed>Your true friend as you ſhall vſe me, L. M.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Anſwer.</head>
+               <p>MAſter <hi>M.</hi> truly it much grieues me you were ſo diſap<g ref="char:EOLhyphen"/>pointed, and the negligence of my man went not a<g ref="char:EOLhyphen"/>way vnpuniſhed, by whoſe default the Carrier went with<g ref="char:EOLhyphen"/>out them: beleeue me on my word, and I account my ſelfe happier in being a maſter of that, then in much riches, no fear of payment, nor leaſt doubt of your eſtate was any hindrance to it: I haue well knowne you by others, and haue had ſo much experience of you my ſelfe, that you ſhall ſooner want occaſion for wares, then I confidence to truſt you: your neighbours ſpeake much good of you, and all men that know you giue you a faire report, which makes me happie both in your cuſtome and friendſhip. If ſiniſter occaſions ſhall any time happen (as while wee are here they are inci<g ref="char:EOLhyphen"/>dent vnto vs) I ſhall rather pittie your fortunes then call in queſtion your faire dealings. And know we are all men ac<g ref="char:EOLhyphen"/>countable euery inſtant for all our poſſeſſions. The Cartier this weeke brings thoſe commodities, and better and more vendable you neuer had of me; and I verily beleeue the Gentleman will thinke themſelues happily repaid in the ſtay with the exceeding goodneſſe and laſtingneſſe of the waies.
+<pb n="37" facs="tcp:5415:21"/> For your reckonings at more leiſure I will peruſe and ſend them, in whoſe place receiue my kind commendations, and entre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty for my mans careleſneſſe, I bid you moſt heartily farewell.</p>
+               <closer>
+                  <signed>Your friend as you know. <hi>I. G.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter of thankfulnes for kindneſſe ſhewed to his Sonne.</head>
+               <p>SIr, the fauours you haue already done me are of ſuch effect and merit, that I ſhall neuer be at quiet vntill I haue made ſome requitall of them I am aſhamed you ſhould be thus continually troubled with a ſonne of mine, whom I haue charged to obey you in al things as my ſelfe, and I pray you doe ſo much as haue a carefull hand ouer him, as if you were his father, or hée your onely childe: I kindly and heartily th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nke you for the apparell you haue made him l<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ely which is decent, comely, and profitable, and the monie you <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aue paid for him: you may accommo<g ref="char:EOLhyphen"/>date him with the reſt if you thinke it fitting: for my part I giue you all power and authoritie ouer him, ſeeing you are pleaſed to take the trouble vpon you. So wiſhing but to meet with ſome good occaſion that may lie in my poore power, to acknowledge how much I am beholding vnto you, I for this time commit you to the protection of the Al<g ref="char:EOLhyphen"/>mighty. Reſting</p>
+               <closer>
+                  <signed>Your aſſured louing friend, D. B.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="38" facs="tcp:5415:22"/>
+               <head>The Anſwer.</head>
+               <p>MAſter <hi>B.</hi> I haue receiued your Letter concerning your ſon. Sir, for any fauour I can doe you, either in this or any other, I ſhall be right willing, knowing how much from time to time I and mine are bounden vnto you. And aſſure your ſelfe it ſhall be no trouble vnto me to vſe the beſt of my counſell and care ouer him. For his apparell, it will keepe him warme, I know, which is the principall thing I ayme at, and I hope pleaſing to him and his friends. The other money I ſhall deliuer him as I ſhall ſee good both for himſelfe to vſe, and the credit of you his father. Moreouer (Sir) he is to me very dutifull and louing, by which he ſhall loſe nothing in my care of his welfare, and hee very well ſpends his time at Schoole, and to good purpoſe I hope; wherein I doubt not you ſhall haue great comfort. He be<g ref="char:EOLhyphen"/>houeth himſelfe ſo well by his good demeanure to all, that he is generally beloued of all my neighbours. For my power and authority ouer him, I will imploy my ſelfe onely for his good, and your fatherly care committed to me. And ſo with a thouſand commendations I commit you to God.</p>
+               <closer>
+                  <signed>Your friend, I.D.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to his Miſtreſſe in the Country that de<g ref="char:EOLhyphen"/>ſired newes from the Citie.</head>
+               <p>MOſt excellent miſtris, your command (which is to me a law) binds me to obey you, and though the task be infinite hard to containe ſo great a beaſt in ſo little pa<g ref="char:EOLhyphen"/>per yet for your ſatisfaction, I will delineate to life the
+<pb n="39" facs="tcp:5415:22"/> proportion of ſome of his members. It is newes you deſire, &amp; beléeue me (faire one) ſince I came into the Citie, I haue not ſeene or heard any thing old; euen from the Capitoll, to the Cottage, all things are in their new garments, the Court hath new fauourites, the Citie a new Senate, and the Common-wealth new officers: the firſt are as great as good, the ſecond are as rich as wiſe, and the third as awe<g ref="char:EOLhyphen"/>full as iuſt: Men are new, for where they ſhould loue they feare, women are new, for where they ſhould honor they ſubdue, and children are new, for where they ſhould reue<g ref="char:EOLhyphen"/>rence they aſtoniſh, Cuſtomes and manners are new, for the poore daily féed the rich, the rich cozen the great, and the great make fooles of the good ones. The faſhions though they were neuer old, are now newer then euer, for in man and woman there is not a point to chuſe betwixt the ſexes, the one hath deſcended ſo much downward, and the other aſcended ſo much vpward, that met in one circle they are both now truſſed vp together without difference: Apparell that was made to couer, is now made to diſcouer folly and lewdneſſe, and they are fineſt that are neareſt to the naked Anatomie: Diſcourſe is new, for wiſe men talke of their wealth, learned men of their deceit, and great men of vanitie, Old men like old Wolues boaſt of their preyes paſt, middle age like Lyons talke of that which is in their powers, and children like dogs barke of the reuenges which ſhall be: Our Citizens like Aſſes are proud of rich bur<g ref="char:EOLhyphen"/>thens, and like Apes, ioy in pyde trapping, and our gal<g ref="char:EOLhyphen"/>lants like Béere-brewers horſes bragge how much drinke they can carrie. To conclude, all things are ſo new, that euen vertue her ſelfe is deſpiſed in old garments, and hée that kéepeth any phraſe of his forefathers, is but a rude ſpeaker, for to ſay <hi>Hic mulier,</hi> is now the pureſt and trueſt Latine. Thus (my deare Miſtreſſe) you haue the neweſt Newes of the ſeaſon, which I write rather to keepe you in your old way of vertue, then to loſe your ſelfe in the folly of imitation, I know your goodneſſe, and how true a re<g ref="char:EOLhyphen"/>warder
+<pb n="40" facs="tcp:5415:23"/> it is of its owne merits, relie vpon it euer, it will make your end happy, and my life fortunate, that am the ſeruant of ſo great a perfection.</p>
+               <closer>
+                  <signed>T.W.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>YOu haue ſent me (worthy ſeruant) my deſire backe with ſo great an intereſt, that I ſtand two wayes fearfull how to receiue it, either to incurre the ſuſpition of too greedy an inquiry, or the enuy of a weake nature, that is pleaſed with detraction: from both which I am free, in as much as my ayme is held within the leuell of modeſty. I confeſſe, the parts you haue giuen mee may belong to a beaſt, or rathers Monſter, for the ſhape hath little proportion: yet I haue heard of excellent Painters which haue made curious peeces of perſpectiue, that beheld with a liberall eye on the plaine Table, hath appeared vgly and moſt deformed, but the ſight ſtraitned and drawne into a more ſeuere and narrow com<g ref="char:EOLhyphen"/>paſſe it hath beene beautifull, and in the glory of the beſt perfection: ſuch, I feare, was the picture from whom you tooke your copie, and looking vpon it the wrong way, you ſaw the lines, but not the beautie. I doe confeſſe, the world is olde, yet not ſo olde but it may continue to weare out ma<g ref="char:EOLhyphen"/>ny new garments. Age makes it ſubiect to ſickneſſe and infir<g ref="char:EOLhyphen"/>mitie, and what better defence then warme and ſound cloa<g ref="char:EOLhyphen"/>thing? Sickneſſe brings corruption, and ill ſauours, what better preuention then much ſhift and many new things? ſo that I conclude, theſe nouelties which you diſlike are but to cure ſomething in the world that is vnwholeſome. Againe, I haue ſeene an Italian Comely, conſiſting of a louer, a wo<g ref="char:EOLhyphen"/>man, a zany or foole, and a deuill; and to it I may faſhion the world, for that the ſtage, the people the actors, each degree haue their zanie and their deuill; Now if the zany will ſteale his maſters apparell, and make betweene vice and vertue no
+<pb n="41" facs="tcp:5415:23"/> difference, blame not the diſcretion of the maſter, if it de<g ref="char:EOLhyphen"/>uiſe new faſhions, till either the fooliſh zany be tyred, or the deuill for his pride fetch him away, and conclude the enter<g ref="char:EOLhyphen"/>lude. This (my beſt ſeruant) you may apply at your plea<g ref="char:EOLhyphen"/>ſure, for mine innocence hath taught me that charitie, not to accuſe any of that crime I would not my ſelfe be guiltie; nor is my defence an argument to draw on your ſilence, but ra<g ref="char:EOLhyphen"/>ther a motiue to make you more liberall, in beſtowing on me the reſt of your collections; in which doubt not my con<g ref="char:EOLhyphen"/>ſtancy, ſince no inchantments can make mee forget to pre<g ref="char:EOLhyphen"/>ſerue my ſelfe euer worthy to be your Miſtris.</p>
+               <closer>
+                  <signed>M. S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A wooing and comfortable letter to a noble widow that had newly loſt her husdand.</head>
+               <p>THough (my noble Widow) I am the laſt that ſend you comfort, yet was I the firſt that felt your anguiſh, and will be the readreſt of all men to ſerue you in your trouble: you haue loſt a dearly deſired husband, and ſound an infinit way to griefe, the one is the act of Fate, and cannot be pre<g ref="char:EOLhyphen"/>uented, the other is the worke of Nature, and by wiſdome muſt be corrected: Remember (faire Widow) who is gone (a good man) to whom he is gone (to a good God,) and from whom (from a wicked World, and worſe people) and you ſhall find more cauſe to praiſe heauen for his happines then to murmure for your loſſe of comfort; a good man dies to liue, theres your ioy, an ill man liues to die, theres true anguiſh: the ioyes of mariage ſhould bee writ in Table-bookes, not vpon paper, that Widowes might blot and rubbe out the writing, for they ought not to remember the delights paſt, but to meditate on pleaſures to come, not to marrie for eternity, but during the will of heauen, neither
+<pb n="42" facs="tcp:5415:24"/> haue you loſt any thing, for hée was but a treaſure lent you, and to grieue at the repayment were to wrong your goodneſſe with ingratitude. Beleeue mée Madam, were your cure in my hands, as your griefe is at my heart, nei<g ref="char:EOLhyphen"/>ther ſhould your anguiſh hurt you, nor the memory of your loſſe ſuruiue a moment, but it is in heauen, and your wiſe<g ref="char:EOLhyphen"/>dome, couple them together by yeelding to prouidence, and you ſhall ſée your comforts flow vpon you in a new tyde, you haue reputed mée your friend, and ſhap'd your beſt acti<g ref="char:EOLhyphen"/>ons by my counſels, you were neuer more weake then now becauſe alone, nor did you euer ſtand in more néed, becauſe many aſſaults are prepared againſt you, to kéepe you then in perfect ſafetie, pleaſe you make mée of a tryed friend, a true husband, of a faithfull counſeller, a profitabe Ruler, and of an able helpe a deuout ſeruant, I doubt not but you ſhall finde that armor aganſt all neceſſities. which ſhall both guard you againſt iniuries, and bring you much honour, my character you know beſt, for I am no ſtranger, and my zeale you may iudge by my former ſeruices, if they appeare faultleſſe before you, there will bée no let but cere<g ref="char:EOLhyphen"/>monie, which to countenance againſt vertue, were to bee guiltie of ſoule ſuperſtition: you are wiſe, and that wiſe<g ref="char:EOLhyphen"/>dome I make my aduocate, if he approue me worthy to be yours, my faith ſhall make me your trueſt ſeruant among the liuing.</p>
+               <closer>
+                  <signed>F. R.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>SIr, had the comforts you ſent me comne in a true wed<g ref="char:EOLhyphen"/>ding garment, pure and of one intire ſtuffe: I could not haue choſen but receiued it as the reſt of your chaſte coun<g ref="char:EOLhyphen"/>ſels, and feaſted on it with my daily meditation, but being ſo diſorderly patcht, I can neither beleeue it is yours, nor affect that which is ſo vncomely, you haue ſent me delicate gilt
+<pb n="43" facs="tcp:5415:24"/> pills, where though the gold be more then the poiſon, yet is this poiſon enough to confound; therefore as much as with ſafetie I may retaine (for your ancient friendſhippe) I will keepe and ſtudie, the reſt pardon me to returne you, not out of malice to your wiſh, but griefe at your folly, you haue told me ſo well the excellency of my loſſe, that it were madneſſe in me to runne into a ſecond hazard, and how euer you would take from widowes, the bliſſe of remembrance, yet deare Sir know that I can neuer forget this maxime, <hi>that the death of a good husband ought not to take away the loue of a chaſte wife.</hi> To conclude, what you deſire is not in my pow<g ref="char:EOLhyphen"/>er to grant, for all my loue I haue ſent with him to the graue, whom I haue loſt, &amp; to hold me without that portion, were to graſp a cloud that would bring froth a Centaure; yet from thence ſhould either Fate, or my follies deliuer it, I could not finde any more worthy then your ſelfe to keepe it; but the firſt is too conſtant, and the latter I hope ſhall neuer ſo farre rule in me: Therefore being as you were a chaſt coun<g ref="char:EOLhyphen"/>ſeller, and no ſeducer, you ſhall finde mee as you haue done a faithfull Cabinet full of your goodneſſe.</p>
+               <closer>
+                  <signed>E. L.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Another to the ſame purpoſe.</head>
+               <opener>
+                  <salute>Much honoured Miſtris.</salute>
+               </opener>
+               <p>THe neuer-ceaſing ſtreame of your gratious kindneſ<g ref="char:EOLhyphen"/>ſes, hath by the often thinking on their due deſeruings profoundly imboſomed themſelues in my gratefull affecti<g ref="char:EOLhyphen"/>on, which no courſe of tedious time can extenuate, nor the longeſt abſence by diſtance haue power to diminiſh But oh moſt kinde meriter of all reſpect, whoſe good will I eſti<g ref="char:EOLhyphen"/>mate as my greateſt enrichment, although the condigne requitall of ſuch your rare courteſies lye not in the compaſſe
+<pb n="44" facs="tcp:5415:25"/> and precinct of my poore power, whoſe tenuity is not able to pay ſuch and exceeding tribute: yet how willing my mind is, and how inextinguiſhable my deſires, this illiterate E<g ref="char:EOLhyphen"/>piſtle will teſtifie, which deuoid of elegancies, yet full fraught with the vnfeigned profeſſion of my loue promi<g ref="char:EOLhyphen"/>ſeth the imployment of my vttermoſt powers in all ſeruice<g ref="char:EOLhyphen"/>able endeauors, if all that I can doe may but defray one mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of your inualuable courteſies Command my ſeruice, there is not any thing ſo great that I will ſhrinke, or ſo ſmall that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will diſdaine to effectuate for your ſake, ha<g ref="char:EOLhyphen"/>uing vowed to dye before any word iſſuing from your lips ſhall come in vaine.</p>
+               <p>But leaſt I ſhould detract too much time from your more ſerious affaires, in all humility I take my leaue.</p>
+               <closer>
+                  <signed>Yours vnfainedly. P.Q.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>THough I am far from vanity to eſteeme my ſelfe wor<g ref="char:EOLhyphen"/>they of the ſtyle of beauty, yet I ſee not how to excuſe your ſiniſter opinion, that would thereto annexe ſo great an inconuenience: for it ſeemes (if things might be ordered by your mind) you would haue beauty and loue to be inſepara<g ref="char:EOLhyphen"/>ble companions: oh groſſe! oh abſurd wiſh, and moſt exe<g ref="char:EOLhyphen"/>crable poſition againſt beauty and loue! Then any vitious, deformed or beggerly creature, being but conducted by good fortune to the view of ſome rare Virgin, this vnwor<g ref="char:EOLhyphen"/>thineſſe muſt not onely be entertained, but hee that rather deſeru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to be hiſſed away with diſdaine, muſt ſtraight bee made the owner and Lord of her loue: Nor ſhall it be in her power to giue a repulſe to the preſumption of ind<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers, or to make <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ee election of a deſeruing perſonage, to honour him with her gracious fauour.</p>
+               <pb n="45" facs="tcp:5415:25"/>
+               <p>But I hope ſir, being thus clearly conuinced, you will confeſſe and make recantation of your error, I reſt as I haue reaſon.</p>
+               <closer>
+                  <signed>Yours not to vſe, <hi>S. M.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter of diſcontent after the falling out of Louers.</head>
+               <opener>
+                  <salute>Moſt diſcourteous and painted friend:</salute>
+               </opener>
+               <p>IT is the cuſtome of Louers after the breach of their league and amitie, to ſend backe thoſe gratuities which formerly paſſed as tokens of their naturall affections: you haue taken vp the faſhion, and beléeue mee I abhorre any longer to haue nearneſſe with one of your qualification, who for méere trifles can diſſolue the knot of friendſhip, and ſhake hands with familiarity. For know that your me<g ref="char:EOLhyphen"/>morie which was ſometime deare in my thoughts, is now abhorred, ſeeing that the firmneſſe and ſtability of affection (then which there is nothing ought by men more religiouſly to be obſerued) you haue ſo cauſeleſly brought to annihila<g ref="char:EOLhyphen"/>tion. I may parallel my preſent condition to the ſtate of the Sunne when pitchy clouds which enuironing him round about, ſéeme to extinguiſh his ſplendor, but time the perfecter of all terreſtriall things, may in due ſeaſon im<g ref="char:EOLhyphen"/>part a luſter correſpondent to my hopes, and ſutable to my diſpoſition: till when I will ſcorne the blaſts of aduerſity, and dead all thoſe who hauing little or no merits, are en<g ref="char:EOLhyphen"/>dowed by the diſpenſation of the owly-eyd goddeſſe <hi>For<g ref="char:EOLhyphen"/>tune</hi> with large poſſeſſions: howſoeuer if I can find no bet<g ref="char:EOLhyphen"/>ter to conuerſe and ſpend my time withall then your ſelfe, I will turne <hi>Momus</hi> and for euer hate the ſociety of men: but hauing a better opinion of the generality, for your part I caſhiere you with this <hi>Vltimum vale,</hi> and reſt,</p>
+               <closer>
+                  <signed>
+                     <hi>A ſtranger. <hi>A B.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="46" facs="tcp:5415:26"/>
+               <head>To his angry Miſtris.</head>
+               <p>AS the declining of the Sunne brings a generall dark<g ref="char:EOLhyphen"/>neſſe and diſcomfort, ſo the deficiencie and abſence of your ſhining and glorious fauours hath ouercouered mee with clouds of care. But as the Suns heauenly eſſence by the courſe of Nature is daily reuiued, ſo here I humbly ſue that your wonted gracious aſpect may returne in your countenance, to ſolace the dolefull heart of your ſeruant with viciſſitude of long intermitted alacrity, it will re<g ref="char:EOLhyphen"/>dound to your great commendation, when the world ſhall vnderſtand that your heart is of waxe, not inexorable and of a flinty and adamantine conſtitution, hoping that you will be as ready compaſſionatly to grant as I doe ſubmiſ<g ref="char:EOLhyphen"/>ſiuely implore the renouation of your loue, I reſt,</p>
+               <closer>
+                  <signed>Yours in vnutterable affection. R. S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>A</hi> Letter from an At prentice in London, to his father in the Country.</head>
+               <p>MY humble dutie remembred good father vnto you and my mother. Hauing the opportunitie of this bearer, I thought good to certifie you of my preſent being, giuing you to vnderſtand that I am, I thanke God, and you, in good health, and very well placed here in <hi>London,</hi> where I am in hope to continue my here being to ſome pro<g ref="char:EOLhyphen"/>fitable and good purpoſe: My Maſter vſeth me in good ſort, and I want nothing that appertained to ſuch a one as my ſelfe. I truſt you ſhall haue ioy of me, and ere a few yeares paſſe, I doubt not but ſo to be haue my ſelfe that I ſhall well
+<pb n="47" facs="tcp:5415:26"/> deſerue this good liking that already I haue of my maſter, and further credit at his hands and employment about his buſineſſe I hope you and my mother; and all our friends in the countrie are in good health. I pray you that you will write vnto my maſter as occaſion ſerueth, and thanke him for his good vſage: and if you can to remember him with ſome good conuenient token from the countrie. Thus deſi<g ref="char:EOLhyphen"/>ring your daily bleſſings, and with a recommendation of my humble dutie vnto you both, I take my leaue:</p>
+               <closer>
+                  <signed>Your louing and obedient ſon to command, D. P.</signed>
+                  <dateline>
+                     <hi>London.</hi>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from a husband to his wife.</head>
+               <p>GOod wife, conſidering my haſtie departure from you, and my children, my hope is that you will haue that louing and reſpectiue care towards them and your family that appertaineth. I haue left manie things raw by reaſon of the ſuddenneſſe of my iourney, which ſtandeth vpon your good regard to be ordered, as namely the charge of my ſer<g ref="char:EOLhyphen"/>uants, and the diſpoſition of ſome other affaires and buſi<g ref="char:EOLhyphen"/>neſſes. You ſhall now ſhew your ſelfe a diſcréet and care<g ref="char:EOLhyphen"/>full wife, if in my abſence you will take vpon you to bée in my place. Regard and conſider with your ſelfe, that ſer<g ref="char:EOLhyphen"/>uants are negligent and careleſſe, and if the maſter forget his owne profit, they are as readie as others to ſhare with his gaines Your painfull attendance to oure-looke them, ſhall ſtraine their labours to my vſing, your deſire to ſee to them, ſhall worke their vſing to my well deſeruing. You muſt now a little forget neighbourhood, and walking for companie, conſidering the old prouerbe, that when the Cat
+<pb n="48" facs="tcp:5415:27"/> is a way, the Mouſe will goe play: If Maſter and Dame haue both continued abſence, ſeruants fall a waſting, and doe what they liſt. You know good wife, I haue now ta<g ref="char:EOLhyphen"/>ken a great charge of late vpon me, which with ſome care<g ref="char:EOLhyphen"/>full lookeing to may turne to good. Let it not be greuous vnto you, nor thinke it hard that I thus make you parta<g ref="char:EOLhyphen"/>ker of my charge, as I doe of my profit, for we are yoake<g ref="char:EOLhyphen"/>fellowes you know, and the charge is equall betwixt vs both to be borne and ſupported. If as louing mates and fellowes we draw forth together, we ſhall by Gods bleſſed goodneſſe ſee the fruits of our labours: our children ſhall participate with vs of our trauells, and God ſhall proſper our endeauors. And howbeit good wife I haue euer found you ſuch, as of whoſe care of my well doing I néede haue no doubt, yet if by the importance of my charge I be driuen to write thus much vnto you, thinke that in greate truſt of your modeſtie, reſpect of your loue, and zeale to both our goods I haue done the ſame. And though no diſtruſt re<g ref="char:EOLhyphen"/>maine of any one about mée, yet doe I put you in mind what youth by too much ſufferance and giuing of libertie may be inclined to. This is all I would, and ſo much I hope as you gladly will yeeld vnto. Commend mee many times vnto yourſelfe. Kiſſe my little ones, and remember me, and commend my loue to all our friends </p>
+               <closer>
+                  <dateline>From <hi>Rye</hi> 
+                     <date>the 3 of Febr. 1628.</date>
+                  </dateline>
+                  <signed>Your aſſured louing husband. F. G.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her Anſwer.</head>
+               <p>GOod husband, I am glad you haue at laſt remembred your ſelfe by this bearer to write vnto mee, that haue thought it very long vntill I heard from you. I doe greatly reioyce at the good and proſperous ſucceſſe, of your iourney,
+<pb n="49" facs="tcp:5415:27"/> and chiefly, that you haue endured your trauell ſo well, be<g ref="char:EOLhyphen"/>ing in ſo good plight and ſtreng<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h of body, as I vnderſtand you are by your Letter. Wee are much beholden vnto our good friends in the country that haue giuen you ſo great and good entertainment: and I pray you heartily commend me vnto them. Your buſineſſe here goeth very well, and your ſeruants both dutifull and diligent about their affaires, and we haue no want but your preſence, which if you would ha<g ref="char:EOLhyphen"/>ſten hitherward, it were a comfort vnto vs all to ſee you, ha<g ref="char:EOLhyphen"/>uing beene as to me it ſeemeth, very long abſent. But Maſter <hi>Prince,</hi> and his friends where you are, vſeth you ſo kindly, that I thinke you cannot well tell how to winde your ſelfe out from your good company. Yet good husband remember that at laſt you muſt come home, and the ſooner the better. I referre all to your good diſcretion: and ſo commend mee moſt heartily vnto you. </p>
+               <closer>
+                  <dateline>From London.</dateline>
+                  <signed>Your euer louing and loyall Wife. <hi>R.G.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from one kinſman to another in London or any other place.</head>
+               <p>MY good Couſin, I am glad to heare of your good pre<g ref="char:EOLhyphen"/>ferment in <hi>London,</hi> and that as I heare by your fa<g ref="char:EOLhyphen"/>ther and mother, you are ſo well placed there, and with ſo good a Maſter. It is no little comfort to mée to vnderſtand that you doe ſo reſolutely and with ſo good a minde diſpoſe your ſelfe to your buſineſſe, which I gladly wiſh you would continue. You muſt now remember, that your friends with great care, charge, and induſtrie haue brought you vp, and that their intent and meaning therein was, that in expec<g ref="char:EOLhyphen"/>tation thereof they ſhould haue ioy and comfort of you in
+<pb n="50" facs="tcp:5415:28"/> your elder yeares: for which as you haue now bequeathed your ſelfe to this place of ſeruice, ſo muſt you for any feare of hard vſage, bitternes of ſpeech, or other miſlike of taunts or rebukes, make a account to endure and continue. It may be, being yet vnacquainted with the cuſtomes and vſage of <hi>London,</hi> you doe now thinke well of that which hereaf<g ref="char:EOLhyphen"/>ter may turne to diſcontentment. But good cozen ſo be it, you haue no want of things néedfull and neceſſarie, frame your ſelfe to forbeare all thoſe croſſe matters whatſoeuer, and giue your ſelfe wholly on Gods name, to the benefit of your ſeruice, you ſhall therein want no helpe, furthe<g ref="char:EOLhyphen"/>rance or incouragement on my part, and if you performe it well and honeſtly, you ſhall not want when time ſerueth for an hundred pounds or two, if in the meane ſpace I may ſée your good care of your maſters buſineſſe, and pleaſe your miſtris, for therein you ſhall the better pleaſe your maſter. Your friends are all well, who reioycing in that alreadie they ſée you ſo well behaued, doe daily pray to God to pro<g ref="char:EOLhyphen"/>ſper and bleſſe you: and thus with my heartie commen<g ref="char:EOLhyphen"/>dations I bid you farewell.</p>
+               <closer>
+                  <dateline>
+                     <hi>Farndon</hi> 
+                     <date>this 18 of May 1628.</date>
+                  </dateline>
+                  <signed>Your louing kinſman, B. C.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to requeſt the borrowing of an hundred pounds.</head>
+               <p>SIr, I am bold in my great neceſſitie, vnder aſſurance of your forwardneſſe to doe mée good, to intreat your ſpeciall aide and furtherance in two <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings, the one where<g ref="char:EOLhyphen"/>of is to lend me of your wonted fauour one hundred pounds, the other this bearer ſhall inſtruct you in, both which con<g ref="char:EOLhyphen"/>ſiſt in your kinde and friendly care of my well doing, I am of opinion none other then your ſelfe can fit the occaſion,
+<pb n="51" facs="tcp:5415:28"/> better. And truly ſuch is the force of impriſonment, as con<g ref="char:EOLhyphen"/>trarie to that you haue wontedly knowne in me, my vn<g ref="char:EOLhyphen"/>derſtanding is quite decayed, and ſore worne with want of libertie, and where the ſpirits are ſo diſtuned, it muſt néeds follow, the memorie muſt néeds ſound nothing but diſcord. In fine, Sir, it is in you to doe mée good, and to make me by this onely action for euer beholden vnto you, wherein if I may ſo far forth preſume of your fidelitie aſ<g ref="char:EOLhyphen"/>ſure your ſelfe if euer God giue me libertie, to none ſo much as you ſhall I be yoked in courteſie Good maſter <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. A.</hi> the matter hereof requireth ſome haſte, whereto I muſt hear<g ref="char:EOLhyphen"/>tily intreat you faile me not.</p>
+               <closer>
+                  <salute>Fare yee well</salute> 
+                  <dateline>
+                     <date>this 18 of December. 1628.</date>
+                  </dateline>
+                  <signed>Your impriſoned friend, I. S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Anſwer.</head>
+               <p>GOod Maſter <hi>I. S.</hi> needleſſe it were you ſhould intreat me in that wherein you haue found me moſt willing, and ſuch whom with ſmall perſwaſion you may induce to a farre greater purpoſe then what in you laſt letter is requi<g ref="char:EOLhyphen"/>red; the meſſenger I haue appointed to returne againe to my chamber to morrow morning, at which time I will not faile to ſend you your deſired ſumme: for the other, hard will it be for me to accompliſh that wherein your ſelfe ſeeme ſo vnperfect, for that the dulleſt conceit forged from the moſt diſtempered of your imaginations, cannot but ſound far better tunes then the ripeſt of my inuentions any way are able to deliuer. Neuertheleſſe ſuch as it is, or (by diſlike of your owne) you haue will to account of, that will I pre<g ref="char:EOLhyphen"/>pare to your view, and put forward to your good ſpeed, thinking it better by the deliuery of a groſſe deuice to ſatis<g ref="char:EOLhyphen"/>fie the demand of a friend, then by the concealing the ſim<g ref="char:EOLhyphen"/>plicity thereof, to be conſured vncourteous. In concluſion,
+<pb n="52" facs="tcp:5415:29"/> it is lawfull for you to vſe me to the vttermoſt, and fitteſt to your conformed league of amitie, that (in whatſoeuer) you ſhould imploy me, wherein I deſire you conceiue no more then ſuch as I intend to become, and you ſhall aſſuredly finde me,</p>
+               <closer>
+                  <signed>Your faithfull friend. <hi>I.P.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to his friend for breach of promiſe.</head>
+               <p>MAſter <hi>Iackſon,</hi> I haue abſtained hitherto to come or ſend vnto you, partly being wearied with importu<g ref="char:EOLhyphen"/>nitie, for that I thought, now two moneths being paſſed, I might in this ſpace haue found a time conuenient where<g ref="char:EOLhyphen"/>in to haue ended with you. Hauing taken this cauſe in hand, I would (as in good reaſon I thought it fit) you ſhould determine with me vpon ſome concluſions whereon to reſt aſſured, I might thenceforth know where to truſt, and neither waſte labour in comming to ſo ſmall purpoſe, nor hinder my certaine buſineſſe by the vnſteadie ſtay of your affaires, as alreadie I haue done. Wée haue talked many times, and ſet downe certaine limits, but to ſlender effect, as I neither know when to demand, nor you how to ſatisfie. So that depending vpon ſhadowes, I haue paſſed my time to ſamll benefit, and you haue gone forward to little purpoſe. I doe pray you therefore that ſuch meaning may aſſure vs, as alreadie betwéene vs hath beene perfor<g ref="char:EOLhyphen"/>med. To delay me thus with nifles, as I thinke is farre from a Gentleman, ſo doe I ſuppoſe you not intend it, con<g ref="char:EOLhyphen"/>ſidering how many waies thereby I am and ſhall bée hin<g ref="char:EOLhyphen"/>dred. This therefore may be the certaine meanes to ſatis<g ref="char:EOLhyphen"/>fie vs both, that you will (as on Friday laſt you promiſed) come and ſee the agréement betwéene vs performed, where<g ref="char:EOLhyphen"/>of
+<pb n="35" facs="tcp:5415:29"/> ſo I pray you aduertiſe your full reſolution by this bearer. And ſo I bid you heartily farewell.</p>
+               <closer>
+                  <signed>Your euer aſſured louing friend, W. M.</signed>
+                  <dateline>
+                     <hi>Arthingworth.</hi>
+                     <date>
+                        <hi>May</hi> 7. 1628.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Anſwer.</head>
+               <p>GOod maſter <hi>W. M.</hi> my breach of promiſe in not ha<g ref="char:EOLhyphen"/>uing viſited you with deſerued requitall ſithence my departure, may breed ſuſpition and doubt of vnthankfulnes, but I hope, and by hope preſume, that of your owne good diſpoſition towards all your acquaintance, you will yeeld vnto an approued tryall before you condemne. For my part, if I ſhould not owe vnto you all honeſt minde and fide<g ref="char:EOLhyphen"/>lity, I ſhould much contrary your great courteſie, and deſer<g ref="char:EOLhyphen"/>uedly incurre the ſhame of ingratitude. You know that ha<g ref="char:EOLhyphen"/>uing ſtrayed as I haue done out of the limits of a controuled rule, and diſpleaſed ſo much thereby, as my caſe hath be<g ref="char:EOLhyphen"/>wrayed vnto you, thoſe whom by nature and duty I ought to be awed vnto, It is reaſon that by a more diſtrict obſer<g ref="char:EOLhyphen"/>uance I make amends for the reſidue. The day appointed I will not faile to meet to view the writings, and to make ſome concluſion to your beſt ſatisfaction. Wherein you ſhall perceiue the honeſt minde of a Gentleman. My father it ſeemeth, though not yet by me, hath otherwiſe vnderſtood how much I ſtand yoaked (in all friendly league of amity) vnto you, and thinketh himſelfe for all his ſons vnthrifti<g ref="char:EOLhyphen"/>neſſe ſomewhat therin to be tyed vnto you. His meaning is, one of theſe dayes to intreat your paines hitherward. But howeuer deſerts be noted, or care by nature doth binde, aſ<g ref="char:EOLhyphen"/>ſure your ſelfe, whileſt life leadeth a long this earthly coarſe, I am and will be alſo yours moſt vnfainedly and in moſt in<g ref="char:EOLhyphen"/>tirely.
+<pb n="54" facs="tcp:5415:30"/> To whom and to your good bedfellow, I moſt heartily and often commend me:</p>
+               <closer>
+                  <dateline>From Thindon. <date>Iune 28. 1628.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Remaining your much bounden friend in all good affection,</hi> I. R.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To his friend a Mercer.</head>
+               <p>DEare ſir, many ſalutations, &amp;c. As my occaſions fall out I ſtill preſume to trouble you, grounding my bold<g ref="char:EOLhyphen"/>neſſe vpon the hope of your loue and good will, I requeſt you to ſend me as much black Sattin as will make me a ſute. I am your debtor alreadie, beſides in good will and loue, a ſmall ſumme, which for that it hath beene long de<g ref="char:EOLhyphen"/>tained, you may coniecture it to bée deſperate: yet on my credit it is as ſure as any money in your purſe: My intent being honeſt, but my ſtore not ſuch as at this time I can ſa<g ref="char:EOLhyphen"/>tisfie: next Terme I expect the plenty of my purſe will be ſo profuſe, that God permitting without faile for theſe and the old debt you ſhall be fully diſcharged. Acknowledging my ſelfe beholding, I reſt</p>
+               <closer>
+                  <signed>
+                     <hi>Your thankfull friend, <hi>R. G.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to an vnfaithfull friend.</head>
+               <p>SIr, I haue euer béene ſo loth to thinke ill of you, that I ſcarce allow mine owne witneſſe againſt you, or thoſe ſtrong preſumptions that make mée thinke you meane to kéepe no promiſes nor no friends: If you will needs haue it ſo, let our acquaintance now grow ſickly, and die priuate<g ref="char:EOLhyphen"/>ly, leſt I be blamed for truſting, and you for deceiuing ſo great a truſt. For ſince our loue is grown into ſo deſperate a
+<pb n="55" facs="tcp:5415:30"/> Lethargie, I will not wake it, for I had rather it ſhould paſſe away in a trance, and the remembrance thereof ne<g ref="char:EOLhyphen"/>uer hereafter to be mentioned. What your friendſhip was I cannot tell, but I am aſſured to the view it was fit for greater courteſies then I required: what mine owne was iudge when you haue moſt néed of a friend. Neither will I tell you what a ſea of miſfortune your breach of promiſes hath let in vpon mée: but Ile bid you now and euer fare<g ref="char:EOLhyphen"/>well, and with my letter conclude all rites of loue betwixt you and me, and reſt</p>
+               <closer>
+                  <signed>No longer your friend. I. B.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter for admittance into ſeruice.</head>
+               <p>HOnourable ſir: I haue euer béene ſo addicted to fol<g ref="char:EOLhyphen"/>low you, that in mine owne opinion I am an old re<g ref="char:EOLhyphen"/>tainer of yours: ſo I am within a degrée of a houſhold ſeruant, which is all the promotion that by the interceſſion of this Letter I ſtriue to come to. But I ſée ſo many ſteps directed that way, that I may perhaps come too late, yet I hope your number is not full, though it be great, and I ſuppoſſe all are not inuited that goe: but ſome intrude. I will take it for extreame bounty to bée admitted within your gates: what I doe is preſt by no neceſſity, but to ſaue my longing, and to ſatisfie my deſires, which a far off haue euer ſerued you Once I thought to haue moued this ſuit by friends, but that way I was afraid it might miſcary: and I was not verie willing it ſhould ſucceed, being loth to intangle my ſelfe in obligations, to other men, when I was to paſſe my ſelfe ouer vnto you, ſo I thought beſt to write, for to ſpeake had béene too bold. So in hope at the leaſt of a pardon, I reſt as far as in me lies,</p>
+               <closer>
+                  <signed>Your humble ſeruant, B. I.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="56" facs="tcp:5415:31"/>
+               <head>To his loue vpon a long and fruitleſſe affection.</head>
+               <p>IT is the propertie of none but of a faint-hearted ſouldier for receiuing a repulſe or two to retire from aſſault, and to giue ouer his enterpriſe: when euerie one ought to vſe conſtant perſeuerance, that he may worke the accompliſh<g ref="char:EOLhyphen"/>ment of his deſires. The long vnſucceſſiueneſſe of my ſuit hath not made me wearie of your ſeruice, though ſince I firſt fell in loue with you (O might the examples incite you no longer to retard your affection) the Sun hath gone about the world, and giuen a new life to all things which the tempeſtuous winter had left forlorne: the ioyfull Mer<g ref="char:EOLhyphen"/>chant hath made a rich returne, and the laborious huſband<g ref="char:EOLhyphen"/>man hath cramm'd his barnes with the plenteous crop of the euer fruitfull earth: Euerie one hath his hope, onely my ſelfe more vnfortunate then all the reſt, in this reuolu<g ref="char:EOLhyphen"/>tion of time haue not had any ſucceſſe. I am you ſée péere<g ref="char:EOLhyphen"/>leſſe in miſfortune: it reſts in you with the ſympathie of af<g ref="char:EOLhyphen"/>fection to make me péereleſſe in felicity, of which I will ne<g ref="char:EOLhyphen"/>uer deſpaire, there being no heart that is more infinitely affected toward you then the heart of</p>
+               <closer>
+                  <signed>
+                     <hi>Your trueſt ſeruant, <hi>E. I.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To his ſweet heart in the Country.</head>
+               <opener>
+                  <salute>Sole miſtris of my affections:</salute>
+               </opener>
+               <p>THough in <hi>London</hi> where I now am many ſingular beauties are daily obuious to my ſight, yet I beſéech you not to charge me vnfained lines with flatterie, if in the iuſt collaudation of your owne vnparalleld pulchritude I prefer your vnmatchable forme before the rateſt of their compoſures: Their formoſities come as far ſhort of yours
+<pb n="57" facs="tcp:5415:31"/> as the ſplendor of the twinkling Stars comes ſhort of the all-enlightning radiance of the Sun beames, and they all are as far your inferiors in the rauiſhing gifts of Nature, as the vilipended pibble is inferior to the worth of the moſt high prized Carbuncle. To which outward endowments when I reuolue in my mind (and no houre paſſeth without commemoration of your perfections) how ſwéetly you haue vnited all internall graces, then am I diſtracted with griefe for my abſence, and though my vnreſtrained mind be inſe<g ref="char:EOLhyphen"/>parably with you, yet I curſe the diſtance of place which depriues me of all comfort, becauſe it diſioynes mée from your preſence, which till I enioy, all ioy is baniſhed out of my breſt, and I haue giuen griefe a frée dominion in me, I cannot ſay I reſt, but I remaine,</p>
+               <closer>
+                  <signed>Your entire veſſall, I. S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A young mans Letter to his enamoured miſtris.</head>
+               <opener>
+                  <salute>Faireſt of a thouſand:</salute>
+               </opener>
+               <p>IF you were not abſolute, I would not be thus reſolute: onely to loue you whom I hold onely worthie louing: your beautie tels mine eye, and your kindneſſe perſwades my heart of your goodneſſe; for, if you were proud, I ſhould diſdaine you, and if you were not faire I would not affect you: now, if you know the one true in your ſelfe, beléeue the other in me, and wrong not your ſelfe, in not doing mée right: Modeſtie and viceneſſe are two, and delayes are the hindrances of happineſſe: to vrge your patience with importunitie I will not, and yet to giue ouer my ſuit I cannot: and therefore knowing your iudgement ſufficient to vnderſtand your owne good, I hope to finde your diſpoſi<g ref="char:EOLhyphen"/>tion not inclinde to hurt him, who remaineth,</p>
+               <closer>
+                  <signed>Your as you will, and when you will, T. D.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="58" facs="tcp:5415:32"/>
+               <head>Her kinde anſwer.</head>
+               <p>MY worthy friend, how long I haue loued you, was from the firſt inſtant that I beheld you: how much I doe loue you, I would I could tell you: how dearly I will loue you, my beſt endeauors ſhall truly make knowne vnto you: and if vnder heauen I may find ſuch happineſſe on the earth as to be regarded in your fauour, I will thinke it idle that figures earthly felicity: for your excellence, being almoſt without exception, let my loue be without compariſon: and if truth may haue beliefe, let my affection be without ſuſpi<g ref="char:EOLhyphen"/>tion: and as you haue won my heart with your eyes, make it happy with your hands: ſo hoping that ſo ſweet an aſpect can haue no ſowreneſſe in ſpirit, in the hope of your kinde anſwer, I reſt</p>
+               <closer>
+                  <signed>
+                     <hi>Yours, deuoted to be commanded. <hi>A. B.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter of Requeſt.</head>
+               <p>KInde friend: I would entreat a kindneſſe, but for feare of a deniall, not out of mine owne deſerts, but rather your diſpoſition, which I doubt is too neare the nature of the world, rather to grant then to gratifie: excuſes are more trials of wit then truth, and a faithfull heart hath no ſtop in loue, and therefore, that I may not haue cauſe to wrong my ſelfe in my aſſured confidence of your worth doe right to your ſelfe in the good of that performance, that, without parentheſis may conclude in a full point of kindneſſe. The ſubſtance of my ſuit I haue ſent you by word of mouth, be<g ref="char:EOLhyphen"/>cauſe my hand-writing ſhall not witneſſe my vnhappineſſe if my hope ſhould faile the expectation of my affection, in which without greater care of the contrarie, I reſt,</p>
+               <closer>
+                  <signed>Yours as you know, D. S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="59" facs="tcp:5415:32"/>
+               <head>A Letter of diſcontent, vpon deniall of a Requeſt.</head>
+               <opener>
+                  <salute>My ſmall friend,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Thanke you for nothing more then that I haue nothing to thanke you for, wherein you rather conſidered what I am, then your ſelfe ſhould be: pardon my folly, in preſu<g ref="char:EOLhyphen"/>ming aboue knowledge, and beleeue mée no more if I fall into the like error of opinion: you willed mée to make ac<g ref="char:EOLhyphen"/>count of your vttermoſt power, in my good: It may bée it was in wiſhes, which are eaſily requited, but when they are void of effects, they are but troubles to reaſon: I can<g ref="char:EOLhyphen"/>not ſpell without letters, nor vnderſtand words without ſubſtance, therefore loath to be tedious, when I haue vn<g ref="char:EOLhyphen"/>willingly béene troubleſome, I pray you let complements be without coſt, ſo ſhall kindneſſe continue, in that conditi<g ref="char:EOLhyphen"/>on of iudgement that ſhall make me alwaies readie to re<g ref="char:EOLhyphen"/>quite your deniall of my requeſt as I finde cauſe,</p>
+               <closer>
+                  <signed>Your friend to command, R. T.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To a Court Lady.</head>
+               <p>IF Loue could diſſemble, patience could haue no paſſion, but truth is ſo tyed to affection, that as a ſound limbe it cannot halt. If you aske the reaſon of my affection, looke into the excellencie of your owne worth, and then if there be any extreame, take it in the beſt part, which groweth from your ſelfe: for ſuch is my iudgement of your deſer<g ref="char:EOLhyphen"/>uing, as can be anſwered in nothing but in admiring: for ſurely, hée muſt be either verie dim ſighted that doth not preferre your beautie to all ſhadowes, or dull witted, that vnderſtands not the honour of your worthineſſe. O <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me leaue then, out of the ſight of my beſt ſenſe, and ſenſe of my
+<pb n="60" facs="tcp:5415:33"/> beſt ſight, to deuote my ſeruice to your command, that may giue a happineſſe in your employment: and while idle Complements are but Court faſhions, let plaine truth haue ſuch acceptance in your fauour, that ſuſpition may not wrong a true affection: in which I vow euer to reſt,</p>
+               <closer>
+                  <signed>Yours all, or mine owne not at all, I. G.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Her complementall anſwer.</head>
+               <p>VVHat words ſhall I vſe to win your affection, hold<g ref="char:EOLhyphen"/>ing vnder heauen my happines but in your loue: if <gap reason="illegible" resp="#UOM" extent="1+ words">
+                     <desc>〈◊…〉</desc>
+                  </gap> would pleaſe you in your affaires, I would neuer reſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in your fauour: if gifts might be graciouſly accepted, I would giue you my ſelfe for your loue: if pitty might moue you, I would lay before you my paſſion: and if my death might onely anſwer your deſire, I would not liue to deſpaire of your comfort: but loue being a ſpirit of that nature, that onely is pleaſed in being himſelfe, I will leaue all my hopes to that happy houre, wherein he may in your eies, caſt thoſe bleſſed beames of fauour, vpon the faith of my heart, that may make me in the infringible bond of deuoted ſeruice to the laſt period of my life</p>
+               <closer>
+                  <signed>
+                     <hi>Yours wholly and onely to be commanded, <hi>E. N.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
